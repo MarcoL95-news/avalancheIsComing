@@ -3,55 +3,67 @@ Five,Five,CARDINAL,,,en,31
 German,German,NORP,,,en,30
 two,two,CARDINAL,,,en,23
 Sunday,Sunday,DATE,,,en,14
+seven,seven,CARDINAL,,,en,13
 Three,Three,CARDINAL,,,en,12
-seven,seven,CARDINAL,,,en,8
-five,five,CARDINAL,,,en,8
+Tuesday,Tuesday,DATE,,,en,9
+five,five,CARDINAL,,,en,9
+Monday,Monday,DATE,,,en,8
 Saturday,Saturday,DATE,,,en,8
-Monday,Monday,DATE,,,en,7
-Tuesday,Tuesday,DATE,,,en,7
-Nepali,Nepali,NORP,,,en,6
-5,5,CARDINAL,,,en,5
+Nepali,Nepali,NORP,,,en,7
 39,39,DATE,,,en,5
+5,5,CARDINAL,,,en,5
 Two,Two,CARDINAL,,,en,4
 Italian,Italian,NORP,,,en,4
 three,three,CARDINAL,,,en,4
 7,7,CARDINAL,,,en,3
-American,American,NORP,,,en,3
+2025,2025,DATE,,,en,3
+eight,eight,CARDINAL,,,en,3
 Friday,Friday,DATE,,,en,3
 seven months ago,seven months ago,DATE,,,en,3
+American,American,NORP,,,en,3
 French,French,NORP,,,en,3
-2,2,CARDINAL,,,en,2
-November 4,November 4,DATE,,,en,2
+Thursday,Thursday,DATE,,,en,2
 morning,morning,TIME,,,en,2
+2,2,CARDINAL,,,en,2
 nine,nine,CARDINAL,,,en,2
 afternoon,afternoon,TIME,,,en,2
-first,first,ORDINAL,,,en,2
-38,38,DATE,,,en,2
-English,English,LANGUAGE,,,en,2
 7 months,7 months,DATE,,,en,2
-2nd,2nd,ORDINAL,,,en,1
-Himalayan,Himalayan,NORP,,,en,1
+mid-October 2025,mid-October 2025,DATE,,,en,2
+English,English,LANGUAGE,,,en,2
+38,38,DATE,,,en,2
+Oct. 19,Oct. 19,DATE,,,en,2
+first,first,ORDINAL,,,en,2
+November 4,November 4,DATE,,,en,2
 8 months,8 months,DATE,,,en,1
-March,March,DATE,,,en,1
-3,3,CARDINAL,,,en,1
+Himalayan,Himalayan,NORP,,,en,1
++1837,+1837,NORP,,,en,1
+Seven,Seven,CARDINAL,,,en,1
 Asian,Asian,NORP,,,en,1
-Nepals Mount,Nepals Mount,FAC,,,en,1
-Alaskan,Alaskan,NORP,,,en,1
+Nepalese,Nepalese,NORP,,,en,1
+a day earlier,a day earlier,DATE,,,en,1
+3,3,CARDINAL,,,en,1
 their late 30s,their late 30s,DATE,,,en,1
-Ortles,Ortles,NORP,,,en,1
-yesterday,yesterday,DATE,,,en,1
-today,today,DATE,,,en,1
-GERMAN,GERMAN,NORP,,,en,1
-FIVE,FIVE,CARDINAL,,,en,1
-this relatively late hour,this relatively late hour,TIME,,,en,1
-Nov 2,Nov 2,DATE,,,en,1
-"11,500ft)","11,500ft)",QUANTITY,,,en,1
+this week,this week,DATE,,,en,1
+March,March,DATE,,,en,1
+Alaskan,Alaskan,NORP,,,en,1
+2nd,2nd,ORDINAL,,,en,1
 "more than 3,500m","more than 3,500m",QUANTITY,,,en,1
-around 4pm,around 4pm,TIME,,,en,1
+Nepals Mount,Nepals Mount,FAC,,,en,1
 a relatively late hour,a relatively late hour,TIME,,,en,1
-+1253 chars,+1253 chars,WORK_OF_ART,,,en,1
-the Ortler moun,the Ortler moun,PRODUCT,,,en,1
-First,First,ORDINAL,,,en,1
-one,one,CARDINAL,,,en,1
 March 4,March 4,DATE,,,en,1
+one,one,CARDINAL,,,en,1
+Crypto Presale Ignites,Crypto Presale Ignites,WORK_OF_ART,,,en,1
+TRON,TRON,PRODUCT,,,en,1
+First,First,ORDINAL,,,en,1
+the Ortler moun,the Ortler moun,PRODUCT,,,en,1
++1253 chars,+1253 chars,WORK_OF_ART,,,en,1
+around 4pm,around 4pm,TIME,,,en,1
+yesterday,yesterday,DATE,,,en,1
+Ortles,Ortles,NORP,,,en,1
+"11,500ft)","11,500ft)",QUANTITY,,,en,1
+Nov 2,Nov 2,DATE,,,en,1
+this relatively late hour,this relatively late hour,TIME,,,en,1
+FIVE,FIVE,CARDINAL,,,en,1
+GERMAN,GERMAN,NORP,,,en,1
+today,today,DATE,,,en,1
 eight months ago,eight months ago,DATE,,,en,1

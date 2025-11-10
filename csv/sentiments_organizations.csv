@@ -1,8 +1,13 @@
 ,phrase,label,sentiment,subjectivity,language,count
+AP,AP,ORG,-0.06666666666666667,0.0,en,3
 Aspen Snowmass,Aspen Snowmass,ORG,0.07142857142857142,0.16517857142857142,en,2
 CAIC,CAIC,ORG,0.125,0.125,en,2
-AP,AP,ORG,0.0,0.0,en,2
+KATHMANDU,KATHMANDU,ORG,-0.13333333333333333,0.0,en,2
 BEDING,BEDING,ORG,-0.2,0.025,en,2
+Crypto News (Live,Crypto News (Live,ORG,0.04545454545454545,0.0,en,1
+Avalanche Investors Search for,Avalanche Investors Search for,ORG,0.04545454545454545,0.0,en,1
+TRX,TRX,ORG,0.0,0.0,en,1
+Avalanche,Avalanche,ORG,0.0,0.0,en,1
 New Avalanche,New Avalanche,ORG,0.2732323232323232,0.0,en,1
 River Stingray,River Stingray,ORG,0.14285714285714285,0.0,en,1
 "Aspen Times
@@ -11,5 +16,4 @@ River Stingray,River Stingray,ORG,0.14285714285714285,0.0,en,1
 The Colorado Avalanche Information Center,The Colorado Avalanche Information Center,ORG,0.0,0.0,en,1
 Sa,Sa,ORG,-0.2,0.0,en,1
 Armed Police Force,Armed Police Force,ORG,0.0,0.0,en,1
-KATHMANDU,KATHMANDU,ORG,-0.06666666666666667,0.0,en,1
 Peoples' Review,Peoples' Review,ORG,-0.275,0.0,en,1
