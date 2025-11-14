@@ -1,29 +1,97 @@
-,phrase,label,sentiment,subjectivity,language,count
-Italy,Italy,GPE,-0.012054597701149427,0.04622126436781609,en,29
-Nepal,Nepal,GPE,-0.1456439393939394,0.08352272727272728,en,22
-South Tyrol,South Tyrol,GPE,-0.004972222222222224,0.08019444444444444,en,15
-Alaska,Alaska,GPE,-0.09999999999999999,0.09999999999999999,en,7
-Kathmandu,Kathmandu,GPE,-0.1738095238095238,0.3273809523809524,en,7
-ROME,ROME,GPE,-0.012777777777777782,0.11055555555555556,en,6
-Mount Yalung Ri,Mount Yalung Ri,LOC,-0.23854166666666668,0.234375,en,6
-Alps,Alps,GPE,-0.03333333333333333,0.0,en,4
-Dolkha,Dolkha,LOC,-0.125,0.375,en,3
-the Rolwaling Valley,the Rolwaling Valley,LOC,-0.2,0.05,en,2
-Himalayas,Himalayas,GPE,0.04444444444444443,0.2777777777777778,en,2
-PANAMA CITY,PANAMA CITY,GPE,0.0,0.04166666666666667,en,2
-KATHMANDU,KATHMANDU,GPE,-0.14791666666666667,0.11458333333333333,en,2
-Yalung Ri Mountain,Yalung Ri Mountain,LOC,-0.3375,0.5833333333333333,en,2
-Rolwaling,Rolwaling,GPE,-0.3375,0.5833333333333333,en,2
-Colorado,Colorado,GPE,0.17500000000000002,0.3583333333333333,en,1
-Gaurishankar Rural,Gaurishankar Rural,GPE,-0.4,0.5,en,1
-Rolwaling Valley,Rolwaling Valley,LOC,-0.2,0.05,en,1
-Mount Yalung,Mount Yalung,LOC,-0.5,0.5,en,1
-Dolakha district,Dolakha district,LOC,-0.4,0.5,en,1
-Snowmass,Snowmass,GPE,0.15,0.45,en,1
-Marble,Marble,GPE,0.0,0.25,en,1
-Yalung Ri,Yalung Ri,GPE,-0.06666666666666667,0.0,en,1
-Treasury Mountain,Treasury Mountain,LOC,0.0,0.25,en,1
-Dolomite mountains,Dolomite mountains,LOC,-0.1,0.0,en,1
-climbe,climbe,GPE,0.0,0.0,en,1
-the Elk Mountains,the Elk Mountains,LOC,0.0,0.25,en,1
-Girdwood,Girdwood,GPE,-0.3,0.6,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Nepal,Nepal,GPE,-0.1326533564814815,0.1355324074074074,en,48,-1,,,,,
+Italy,Italy,GPE,-0.025286044973544974,0.04983300264550264,en,36,-1,,,,,
+South Tyrol,South Tyrol,GPE,-0.004661458333333335,0.07518229166666666,en,16,-1,,,,,
+Argentina,Argentina,GPE,0.09375,0.13125,en,10,-1,,,,,
+Mount Yalung Ri,Mount Yalung Ri,LOC,-0.19458333333333333,0.17791666666666667,en,10,-1,,,,,
+Kathmandu,Kathmandu,GPE,-0.1738095238095238,0.3273809523809524,en,7,-1,,,,,
+Alps,Alps,GPE,-0.044444444444444446,0.020634920634920638,en,7,-1,,,,,
+Alaska,Alaska,GPE,-0.09999999999999999,0.09999999999999999,en,7,-1,,,,,
+ROME,ROME,GPE,-0.012777777777777782,0.11055555555555556,en,6,-1,,,,,
+Europe,Europe,LOC,0.1,0.15,en,4,-1,,,,,
+U.S.,U.S.,GPE,-0.025,0.4625,en,4,-1,,,,,
+Badrinath,Badrinath,GPE,0.08888888888888889,0.4000000000000001,en,3,-1,,,,,
+Buenos Aires,Buenos Aires,GPE,0.0,0.0,en,3,-1,,,,,
+Longyearbyen,Longyearbyen,GPE,0.0,0.0,en,3,-1,,,,,
+Dolkha,Dolkha,LOC,-0.125,0.375,en,3,-1,,,,,
+China,China,GPE,0.07037037037037037,0.20601851851851852,en,3,-1,,,,,
+BUENOS AIRES,BUENOS AIRES,GPE,0.0,0.0,en,3,-1,,,,,
+Himalayas,Himalayas,GPE,0.02962962962962962,0.1851851851851852,en,3,-1,,,,,
+Khabarhub,Khabarhub,GPE,0.24270833333333336,0.5,en,2,-1,,,,,
+Yalung Ri Mountain,Yalung Ri Mountain,LOC,-0.3375,0.5833333333333333,en,2,-1,,,,,
+the Rolwaling Valley,the Rolwaling Valley,LOC,-0.2,0.05,en,2,-1,,,,,
+New York City,New York City,GPE,-0.18181818181818182,0.7272727272727273,en,2,-1,,,,,
+KATHMANDU,KATHMANDU,GPE,-0.14791666666666667,0.11458333333333333,en,2,-1,,,,,
+the United States,the United States,GPE,-0.075,0.19999999999999998,en,2,-1,,,,,
+Hong Kong,Hong Kong,GPE,0.0,0.0,en,2,-1,,,,,
+stablecoin,stablecoin,GPE,0.0,0.0,en,2,-1,,,,,
+Rolwaling,Rolwaling,GPE,-0.3375,0.5833333333333333,en,2,-1,,,,,
+Glacier National Park,Glacier National Park,LOC,0.5,0.5,en,2,-1,,,,,
+PANAMA CITY,PANAMA CITY,GPE,0.0,0.04166666666666667,en,2,-1,,,,,
+WASHINGTON,WASHINGTON,GPE,-0.027500000000000004,0.4133333333333334,en,2,-1,,,,,
+Kuber,Kuber,GPE,0.08333333333333334,0.4,en,2,-1,,,,,
+Uttarakhand,Uttarakhand,GPE,0.08333333333333334,0.4,en,2,-1,,,,,
+Earth,Earth,LOC,0.0,0.0,en,2,-1,,,,,
+Annapurna Rural Municipality-4,Annapurna Rural Municipality-4,GPE,-0.3225,0.6275,en,2,-1,,,,,
+Narchyang,Narchyang,GPE,-0.3225,0.6275,en,2,-1,,,,,
+Brazil,Brazil,GPE,0.0,0.0,en,1,-1,,,,,
+avalanch,avalanch,LOC,0.0,0.0,en,1,-1,,,,,
+B.C.,B.C.,GPE,0.0,0.0,en,1,-1,,,,,
+the North Pole,the North Pole,LOC,0.0,0.0,en,1,-1,,,,,
+Mount Everest,Mount Everest,LOC,0.0,0.0,en,1,-1,,,,,
+Mount Eve…,Mount Eve…,GPE,0.0,0.0,en,1,-1,,,,,
+Dolakha,Dolakha,LOC,-0.1625,0.3875,en,1,-1,,,,,
+Yalung Ri,Yalung Ri,GPE,-0.06666666666666667,0.0,en,1,-1,,,,,
+Green Bay,Green Bay,LOC,0.275,0.5499999999999999,en,1,-1,,,,,
+North Face of Mount Everest,North Face of Mount Everest,LOC,-0.24166666666666667,0.6333333333333333,en,1,-1,,,,,
+Everest,Everest,LOC,0.04722222222222221,0.3111111111111111,en,1,-1,,,,,
+Gaurishankar Rural,Gaurishankar Rural,GPE,-0.4,0.5,en,1,-1,,,,,
+Dolakha district,Dolakha district,LOC,-0.4,0.5,en,1,-1,,,,,
+Mount Yalung,Mount Yalung,LOC,-0.5,0.5,en,1,-1,,,,,
+Belem,Belem,GPE,0.0,0.0,en,1,-1,,,,,
+turkey,turkey,GPE,0.6,1.0,en,1,-1,,,,,
+Rolwaling Valley,Rolwaling Valley,LOC,-0.2,0.05,en,1,-1,,,,,
+Ortler,Ortler,LOC,0.0,0.0,en,1,-1,,,,,
+India,India,GPE,0.0,0.0,en,1,-1,,,,,
+Sweden,Sweden,GPE,0.5,0.6,en,1,-1,,,,,
+Nepals,Nepals,GPE,-0.15000000000000002,0.20000000000000004,en,1,-1,,,,,
+the Allt Backpack,the Allt Backpack,LOC,0.0,0.0,en,1,-1,,,,,
+Allt,Allt,LOC,0.0,0.0,en,1,-1,,,,,
+Norway,Norway,GPE,0.0,0.0,en,1,-1,,,,,
+Girdwood,Girdwood,GPE,-0.3,0.6,en,1,-1,,,,,
+Navarre,Navarre,GPE,0.4,0.75,en,1,-1,,,,,
+Ita,Ita,LOC,0.0,0.0,en,1,-1,,,,,
+Dolomite mountains,Dolomite mountains,LOC,-0.1,0.0,en,1,-1,,,,,
+Budapest Summit,Budapest Summit,GPE,0.25,0.375,en,1,-1,,,,,
+Treasury Mountain,Treasury Mountain,LOC,0.0,0.25,en,1,-1,,,,,
+Louvre,Louvre,LOC,0.0,0.0,en,1,-1,,,,,
+Milei,Milei,GPE,-0.0625,0.3125,en,1,-1,,,,,
+Quartzsite,Quartzsite,GPE,0.125,0.45,en,1,-1,,,,,
+Arizona,Arizona,GPE,0.125,0.45,en,1,-1,,,,,
+Winter Backpacking Packs,Winter Backpacking Packs,GPE,0.109375,0.32548076923076924,en,1,-1,,,,,
+Ireland,Ireland,GPE,0.225,0.3,en,1,-1,,,,,
+Sparta,Sparta,GPE,0.0,0.0,en,1,-1,,,,,
+Prague,Prague,GPE,0.0,0.0,en,1,-1,,,,,
+Asia,Asia,LOC,0.0,0.0,en,1,-1,,,,,
+Tallaght Stadium,Tallaght Stadium,GPE,0.25,0.75,en,1,-1,,,,,
+Johannesburg,Johannesburg,GPE,0.375,0.41666666666666663,en,1,-1,,,,,
+France,France,GPE,-0.07777777777777779,0.14444444444444446,en,1,-1,,,,,
+Ellis Park,Ellis Park,GPE,0.375,0.41666666666666663,en,1,-1,,,,,
+Snowmass,Snowmass,GPE,0.15,0.45,en,1,-1,,,,,
+the Elk Mountains,the Elk Mountains,LOC,0.0,0.25,en,1,-1,,,,,
+climbe,climbe,GPE,0.0,0.0,en,1,-1,,,,,
+Marble,Marble,GPE,0.0,0.25,en,1,-1,,,,,
+Colorado,Colorado,GPE,0.17500000000000002,0.3583333333333333,en,1,-1,,,,,
+AIRES,AIRES,GPE,0.0,0.0,en,1,-1,,,,,
+Japan,Japan,GPE,0.0,0.0,en,1,-1,,,,,
+JPYC,JPYC,GPE,0.0,0.0,en,1,-1,,,,,
+Australia,Australia,GPE,0.0,0.0,en,1,-1,,,,,
+Pacific(APAC,Pacific(APAC,LOC,0.0,0.0,en,1,-1,,,,,
+Vineland,Vineland,GPE,0.1,0.6,en,1,-1,,,,,
+Hollywood,Hollywood,GPE,0.1,0.6,en,1,-1,,,,,
+Montana,Montana,GPE,0.7,0.4,en,1,-1,,,,,
+Caribbean,Caribbean,LOC,0.7,0.4,en,1,-1,,,,,
+the Kanchenjunga river,the Kanchenjunga river,LOC,0.06666666666666667,0.4000000000000001,en,1,-1,,,,,
+Chamoli district,Chamoli district,LOC,0.06666666666666667,0.4000000000000001,en,1,-1,,,,,
+Kanchenjunga river,Kanchenjunga river,LOC,0.0,0.0,en,1,-1,,,,,
+Stablecoin,Stablecoin,GPE,0.0,0.0,en,1,-1,,,,,
