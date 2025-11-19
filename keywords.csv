@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.276388161828125
 'avalanche snow',en,Causes,#00ffff,#00ffff,2,0.2517833892275215
 'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.2479334028151249
-'avalanche death',en,Impacts,#ffff00,#ffff00,3,0.2415380517496763
 'avalanche protection',en,Adaptation,#0000ff,#0000ff,1,0.2269994653044685
+'avalanche death',en,Impacts,#ffff00,#ffff00,3,0.20995831898722486
 'avalanche search',en,Mitigation,#00ff00,#00ff00,2,0.1856803191299036
