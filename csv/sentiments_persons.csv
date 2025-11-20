@@ -1,74 +1,74 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Cima Vertana,Cima Vertana,PERSON,0.11000000000000001,0.13999999999999999,en,5,,,,,,
-David Linder,David Linder,PERSON,0.0,0.0,en,4,,,,,,
-Chris Benchetler,Chris Benchetler,PERSON,0.21893939393939393,0.6487215909090909,en,4,,,,,,
-Craig Mazin,Craig Mazin,PERSON,0.0,0.0,en,4,,,,,,
-John August,John August,PERSON,0.4,0.45,en,4,,,,,,
-Alexander Zverev,Alexander Zverev,PERSON,0.42333333333333334,0.4072222222222222,en,3,,,,,,
-Yalung Ri,Yalung Ri,PERSON,-0.04583333333333334,0.19583333333333333,en,3,,,,,,
-Charles Eppard,Charles Eppard,PERSON,0.0,0.0,en,3,,,,,,
-Rebecca Yarros,Rebecca Yarros,PERSON,0.0,0.3833333333333333,en,3,,,,,,
-Carlos Alcaraz,Carlos Alcaraz,PERSON,0.42333333333333334,0.4072222222222222,en,3,,,,,,
-Luciano Galfione,Luciano Galfione,PERSON,0.0,0.0,en,3,,,,,,
-Ilya Solovyov,Ilya Solovyov,PERSON,0.04077982202982202,0.4749759499759499,en,3,,,,,,
-Jeremy Leif,Jeremy Leif,PERSON,0.0,0.0,en,3,,,,,,
-Brock Nelson,Brock Nelson,PERSON,0.5333333333333333,0.6,en,3,,,,,,
-Leon Draisaitl,Leon Draisaitl,PERSON,-0.06944444444444443,0.2916666666666667,en,3,,,,,,
-Jim Morrison,Jim Morrison,PERSON,-0.06481481481481483,0.3148148148148148,en,3,,,,,,
-Alex de Minaur,Alex de Minaur,PERSON,0.385,0.23583333333333334,en,2,,,,,,
-Ars Technica,Ars Technica,PERSON,0.16666666666666666,0.5,en,2,,,,,,
-Justin Sanchez,Justin Sanchez,PERSON,-0.125,0.475,en,2,,,,,,
-Didier Armand Berton,Didier Armand Berton,PERSON,-0.08333333333333334,0.0,en,2,,,,,,
-Banarsi LalEvery,Banarsi LalEvery,PERSON,0.03571428571428571,0.18571428571428572,en,2,,,,,,
-Isabelle Thaon,Isabelle Thaon,PERSON,-0.08333333333333334,0.0,en,2,,,,,,
-Phil Spencer,Phil Spencer,PERSON,0.0,0.05,en,2,,,,,,
-Zohran Mamdani,Zohran Mamdani,PERSON,-0.115625,0.475,en,2,,,,,,
-Charles Hoskinson,Charles Hoskinson,PERSON,0.21250000000000002,0.2,en,2,,,,,,
-Hyeseong Kim,Hyeseong Kim,PERSON,-0.16785714285714287,0.33571428571428574,en,2,,,,,,
-Javier Milei,Javier Milei,PERSON,0.0,0.0,en,2,,,,,,
-Donald Trump,Donald Trump,PERSON,0.0,0.0,en,2,,,,,,
-Shohei Ohtani,Shohei Ohtani,PERSON,0.0,0.5,en,2,,,,,,
-Violet Sorrengail,Violet Sorrengail,PERSON,0.0,0.0,en,1,,,,,,
-Shailendra Thapa,Shailendra Thapa,PERSON,0.0,0.0,en,1,,,,,,
-Brent Brookhouse,Brent Brookhouse,PERSON,0.35714285714285715,0.5714285714285714,en,1,,,,,,
-Narayan Prasad Risal,Narayan Prasad Risal,PERSON,-0.2,0.05,en,1,,,,,,
-Ben Shelton,Ben Shelton,PERSON,0.4,0.225,en,1,,,,,,
-Ben Shel,Ben Shel,PERSON,0.37,0.24666666666666667,en,1,,,,,,
-Mahendra Yadav,Mahendra Yadav,PERSON,0.2041666666666667,0.5,en,1,,,,,,
-Brian Daboll,Brian Daboll,PERSON,0.275,0.5499999999999999,en,1,,,,,,
-Gagan Thapa Tw,Gagan Thapa Tw,PERSON,0.2041666666666667,0.5,en,1,,,,,,
-Philip Werner,Philip Werner,PERSON,0.58,0.41999999999999993,en,1,,,,,,
-Dolma Khang,Dolma Khang,PERSON,-0.4,0.5,en,1,,,,,,
-Violet Sorr,Violet Sorr,PERSON,0.4,0.75,en,1,,,,,,
-Jason Yarros,Jason Yarros,PERSON,-0.4,0.4,en,1,,,,,,
-Xaden Riorson,Xaden Riorson,PERSON,0.0,0.0,en,1,,,,,,
-+6744 chars,+6744 chars,PERSON,0.0,0.0,en,1,,,,,,
-Paul Thomas Anderson,Paul Thomas Anderson,PERSON,0.3,0.1,en,1,,,,,,
-Fleadh Cheoil,Fleadh Cheoil,PERSON,0.0,0.0,en,1,,,,,,
-Mike Wiegle,Mike Wiegle,PERSON,0.10909090909090909,0.4948863636363636,en,1,,,,,,
-Charles E,Charles E,PERSON,0.0,0.0,en,1,,,,,,
-Kevin Page,Kevin Page,PERSON,0.0,0.0,en,1,,,,,,
-Sörlin Doubleday,Sörlin Doubleday,PERSON,0.5,0.6,en,1,,,,,,
-Sverker Sörlin,Sverker Sörlin,PERSON,0.5,0.6,en,1,,,,,,
-Annapurna Base,Annapurna Base,PERSON,-0.3333333333333333,0.43333333333333335,en,1,,,,,,
-Maurice Herzog,Maurice Herzog,PERSON,-0.4,0.6,en,1,,,,,,
-Hornbein Couloir,Hornbein Couloir,PERSON,0.04722222222222221,0.3111111111111111,en,1,,,,,,
-Hilaree Nelson,Hilaree Nelson,PERSON,0.0,0.0,en,1,,,,,,
-ISABEL DEBRE,ISABEL DEBRE,PERSON,0.0,0.0,en,1,,,,,,
-Hungry Paul,Hungry Paul,PERSON,0.4666666666666666,0.5333333333333333,en,1,,,,,,
-Tommys ef,Tommys ef,PERSON,0.0,0.0,en,1,,,,,,
-Zakhar Bardakov,Zakhar Bardakov,PERSON,0.0,0.0,en,1,,,,,,
-Albert Pinto,Albert Pinto,PERSON,0.5,0.5,en,1,,,,,,
-Glór Tíre,Glór Tíre,PERSON,0.0,0.0,en,1,,,,,,
-Darren Kennedy,Darren Kennedy,PERSON,0.125,0.45,en,1,,,,,,
-Martin Beanz Warde,Martin Beanz Warde,PERSON,0.125,0.45,en,1,,,,,,
-Uncle Gamal,Uncle Gamal,PERSON,0.5,0.5,en,1,,,,,,
-Harlan Coben’s,Harlan Coben’s,PERSON,0.3666666666666667,0.4666666666666666,en,1,,,,,,
-Tony Da Silva,Tony Da Silva,PERSON,0.225,0.3,en,1,,,,,,
-Shamrock Rovers 0,Shamrock Rovers 0,PERSON,0.0,0.0,en,1,,,,,,
-Sainte Foy Tarentaise Ski Resort,Sainte Foy Tarentaise Ski Resort,PERSON,-0.07777777777777779,0.14444444444444446,en,1,,,,,,
-Val dIsère,Val dIsère,PERSON,-0.07777777777777779,0.14444444444444446,en,1,,,,,,
-Louise Zemlicka,Louise Zemlicka,PERSON,0.14285714285714285,0.33035714285714285,en,1,,,,,,
-Thomas Pynchon,Thomas Pynchon,PERSON,0.1,0.6,en,1,,,,,,
-Jennifer Williams,Jennifer Williams,PERSON,-0.4,0.7,en,1,,,,,,
-Scott Erskine,Scott Erskine,PERSON,0.17222222222222222,0.3944444444444445,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Chris Benchetler,Chris Benchetler,PERSON,0.6736596736596735,1.996066433566433,en,1.3000000000000003
+John August,John August,PERSON,1.2307692307692306,1.3846153846153844,en,1.3000000000000003
+Craig Mazin,Craig Mazin,PERSON,0.0,0.0,en,1.3000000000000003
+Brock Nelson,Brock Nelson,PERSON,1.3333333333333333,1.4999999999999998,en,1.2000000000000002
+Yalung Ri,Yalung Ri,PERSON,-0.11458333333333333,0.48958333333333326,en,1.2000000000000002
+Carlos Alcaraz,Carlos Alcaraz,PERSON,1.0583333333333331,1.0180555555555555,en,1.2000000000000002
+Alexander Zverev,Alexander Zverev,PERSON,1.0583333333333331,1.0180555555555555,en,1.2000000000000002
+Jim Morrison,Jim Morrison,PERSON,-0.16203703703703703,0.7870370370370369,en,1.2000000000000002
+Rebecca Yarros,Rebecca Yarros,PERSON,0.0,0.9583333333333331,en,1.2000000000000002
+Luciano Galfione,Luciano Galfione,PERSON,0.0,0.0,en,1.2000000000000002
+Leon Draisaitl,Leon Draisaitl,PERSON,-0.17361111111111108,0.7291666666666665,en,1.2000000000000002
+Cima Vertana,Cima Vertana,PERSON,0.4583333333333333,0.5833333333333333,en,1.2000000000000002
+Shohei Ohtani,Shohei Ohtani,PERSON,0.0,0.9090909090909091,en,1.1
+Ars Technica,Ars Technica,PERSON,0.303030303030303,0.9090909090909091,en,1.1
+Phil Spencer,Phil Spencer,PERSON,0.0,0.09090909090909091,en,1.1
+Zohran Mamdani,Zohran Mamdani,PERSON,-0.2102272727272727,0.8636363636363635,en,1.1
+Charles Hoskinson,Charles Hoskinson,PERSON,0.38636363636363635,0.36363636363636365,en,1.1
+Javier Milei,Javier Milei,PERSON,0.0,0.0,en,1.1
+Donald Trump,Donald Trump,PERSON,0.0,0.0,en,1.1
+Alex de Minaur,Alex de Minaur,PERSON,0.7,0.4287878787878788,en,1.1
+Justin Sanchez,Justin Sanchez,PERSON,-0.22727272727272727,0.8636363636363635,en,1.1
+Hyeseong Kim,Hyeseong Kim,PERSON,-0.3051948051948052,0.6103896103896104,en,1.1
+Banarsi LalEvery,Banarsi LalEvery,PERSON,0.06493506493506493,0.33766233766233766,en,1.1
+Gagan Thapa Tw,Gagan Thapa Tw,PERSON,0.2041666666666667,0.5,en,1.0
+Shailendra Thapa,Shailendra Thapa,PERSON,0.0,0.0,en,1.0
+Narayan Prasad Risal,Narayan Prasad Risal,PERSON,-0.2,0.05,en,1.0
+Didier Armand Berton,Didier Armand Berton,PERSON,-0.16666666666666669,0.0,en,1.0
+Isabelle Thaon,Isabelle Thaon,PERSON,-0.16666666666666669,0.0,en,1.0
+Mahendra Yadav,Mahendra Yadav,PERSON,0.2041666666666667,0.5,en,1.0
+David Linder,David Linder,PERSON,0.0,0.0,en,1.0
+Philip Werner,Philip Werner,PERSON,0.58,0.41999999999999993,en,1.0
+Dolma Khang,Dolma Khang,PERSON,-0.4,0.5,en,1.0
++6744 chars,+6744 chars,PERSON,0.0,0.0,en,1.0
+Violet Sorrengail,Violet Sorrengail,PERSON,0.0,0.0,en,1.0
+Xaden Riorson,Xaden Riorson,PERSON,0.0,0.0,en,1.0
+Fleadh Cheoil,Fleadh Cheoil,PERSON,0.0,0.0,en,1.0
+Violet Sorr,Violet Sorr,PERSON,0.4,0.75,en,1.0
+Ben Shelton,Ben Shelton,PERSON,0.4,0.225,en,1.0
+Ben Shel,Ben Shel,PERSON,0.37,0.24666666666666667,en,1.0
+Brian Daboll,Brian Daboll,PERSON,0.275,0.5499999999999999,en,1.0
+Brent Brookhouse,Brent Brookhouse,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
+Jason Yarros,Jason Yarros,PERSON,-0.4,0.4,en,1.0
+Paul Thomas Anderson,Paul Thomas Anderson,PERSON,0.3,0.1,en,1.0
+Mike Wiegle,Mike Wiegle,PERSON,0.10909090909090909,0.4948863636363636,en,1.0
+Jennifer Williams,Jennifer Williams,PERSON,-0.4,0.7,en,1.0
+Jeremy Leif,Jeremy Leif,PERSON,0.0,0.0,en,1.0
+Charles E,Charles E,PERSON,0.0,0.0,en,1.0
+Kevin Page,Kevin Page,PERSON,0.0,0.0,en,1.0
+Sörlin Doubleday,Sörlin Doubleday,PERSON,0.5,0.6,en,1.0
+Sverker Sörlin,Sverker Sörlin,PERSON,0.5,0.6,en,1.0
+Annapurna Base,Annapurna Base,PERSON,-0.3333333333333333,0.43333333333333335,en,1.0
+Maurice Herzog,Maurice Herzog,PERSON,-0.4,0.6,en,1.0
+Hornbein Couloir,Hornbein Couloir,PERSON,0.04722222222222221,0.3111111111111111,en,1.0
+Hilaree Nelson,Hilaree Nelson,PERSON,0.0,0.0,en,1.0
+ISABEL DEBRE,ISABEL DEBRE,PERSON,0.0,0.0,en,1.0
+Hungry Paul,Hungry Paul,PERSON,0.4666666666666666,0.5333333333333333,en,1.0
+Tommys ef,Tommys ef,PERSON,0.0,0.0,en,1.0
+Ilya Solovyov,Ilya Solovyov,PERSON,0.12233946608946605,1.4249278499278497,en,1.0
+Zakhar Bardakov,Zakhar Bardakov,PERSON,0.0,0.0,en,1.0
+Albert Pinto,Albert Pinto,PERSON,0.5,0.5,en,1.0
+Glór Tíre,Glór Tíre,PERSON,0.0,0.0,en,1.0
+Darren Kennedy,Darren Kennedy,PERSON,0.125,0.45,en,1.0
+Martin Beanz Warde,Martin Beanz Warde,PERSON,0.125,0.45,en,1.0
+Uncle Gamal,Uncle Gamal,PERSON,0.5,0.5,en,1.0
+Harlan Coben’s,Harlan Coben’s,PERSON,0.3666666666666667,0.4666666666666666,en,1.0
+Tony Da Silva,Tony Da Silva,PERSON,0.225,0.3,en,1.0
+Shamrock Rovers 0,Shamrock Rovers 0,PERSON,0.0,0.0,en,1.0
+Sainte Foy Tarentaise Ski Resort,Sainte Foy Tarentaise Ski Resort,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
+Val dIsère,Val dIsère,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
+Louise Zemlicka,Louise Zemlicka,PERSON,0.14285714285714285,0.33035714285714285,en,1.0
+Charles Eppard,Charles Eppard,PERSON,0.0,0.0,en,1.0
+Thomas Pynchon,Thomas Pynchon,PERSON,0.1,0.6,en,1.0
+Scott Erskine,Scott Erskine,PERSON,0.17222222222222222,0.3944444444444445,en,1.0
