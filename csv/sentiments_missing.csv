@@ -2,163 +2,165 @@
 five,five,CARDINAL,,,en,7.199999999999999
 Italian,Italian,NORP,,,en,5.7
 seven,seven,CARDINAL,,,en,5.199999999999999
-Nepali,Nepali,NORP,,,en,4.3
 Tuesday,Tuesday,DATE,,,en,4.3
+Nepali,Nepali,NORP,,,en,4.3
 Himalayan,Himalayan,NORP,,,en,3.6
 Seven,Seven,CARDINAL,,,en,3.4000000000000004
-two,two,CARDINAL,,,en,2.9
 three,three,CARDINAL,,,en,2.9
+two,two,CARDINAL,,,en,2.9
 Thursday,Thursday,DATE,,,en,2.6
 this week,this week,DATE,,,en,2.6
 7,7,CARDINAL,,,en,2.2
 today,today,DATE,,,en,2.000000000000001
-9,9,CARDINAL,,,en,2.0
 Three,Three,CARDINAL,,,en,2.0
+9,9,CARDINAL,,,en,2.0
 Nov 6,Nov 6,DATE,,,en,2.0
 winter,winter,DATE,,,en,1.9000000000000008
 Italians,Italians,NORP,,,en,1.8
 Days,Days,DATE,,,en,1.8
 nine,nine,CARDINAL,,,en,1.8
-at least seven,at least seven,CARDINAL,,,en,1.8
 Monday,Monday,DATE,,,en,1.8
+at least seven,at least seven,CARDINAL,,,en,1.8
 a night,a night,TIME,,,en,1.6000000000000005
 German,German,NORP,,,en,1.5000000000000004
-American,American,NORP,,,en,1.4000000000000004
+first,first,ORDINAL,,,en,1.4000000000000004
 Today,Today,DATE,,,en,1.4000000000000004
 Sunday,Sunday,DATE,,,en,1.4000000000000004
-first,first,ORDINAL,,,en,1.4000000000000004
-one,one,CARDINAL,,,en,1.3000000000000003
-Two,Two,CARDINAL,,,en,1.3000000000000003
-$20 billion,$20 billion,MONEY,,,en,1.3000000000000003
+American,American,NORP,,,en,1.4000000000000004
 billions,billions,CARDINAL,,,en,1.3000000000000003
+one,one,CARDINAL,,,en,1.3000000000000003
+$20 billion,$20 billion,MONEY,,,en,1.3000000000000003
+Two,Two,CARDINAL,,,en,1.3000000000000003
 Five,Five,CARDINAL,,,en,1.2000000000000002
+four,four,CARDINAL,,,en,1.2000000000000002
 706,706,CARDINAL,,,en,1.2000000000000002
+Saturday,Saturday,DATE,,,en,1.2000000000000002
+Argentine,Argentine,NORP,,,en,1.2000000000000002
+5,5,CARDINAL,,,en,1.2000000000000002
+10,10,CARDINAL,,,en,1.2000000000000002
+2025,2025,DATE,,,en,1.2000000000000002
+years,years,DATE,,,en,1.2000000000000002
+annual,annual,DATE,,,en,1.2000000000000002
+100,100,CARDINAL,,,en,1.2000000000000002
 late last year,late last year,DATE,,,en,1.2000000000000002
 about 10%,about 10%,PERCENT,,,en,1.2000000000000002
-Argentine,Argentine,NORP,,,en,1.2000000000000002
-100,100,CARDINAL,,,en,1.2000000000000002
-annual,annual,DATE,,,en,1.2000000000000002
-10,10,CARDINAL,,,en,1.2000000000000002
-years,years,DATE,,,en,1.2000000000000002
-5,5,CARDINAL,,,en,1.2000000000000002
-2025,2025,DATE,,,en,1.2000000000000002
-Saturday,Saturday,DATE,,,en,1.2000000000000002
-four,four,CARDINAL,,,en,1.2000000000000002
-I Love LA,I Love LA,WORK_OF_ART,,,en,1.1
-One to One,One to One,CARDINAL,,,en,1.1
-November,November,DATE,,,en,1.1
-October,October,DATE,,,en,1.1
-2025-2026,2025-2026,DATE,,,en,1.1
-half of the year,half of the year,DATE,,,en,1.1
-US$16bil -,US$16bil -,MONEY,,,en,1.1
-7pm,7pm,TIME,,,en,1.1
-Arcade x Recco Stretch Belt,Arcade x Recco Stretch Belt,FAC,,,en,1.1
-just yesterday,just yesterday,DATE,,,en,1.1
-12.41%,12.41%,PERCENT,,,en,1.1
-One,One,CARDINAL,,,en,1.1
-$197 billion,$197 billion,MONEY,,,en,1.1
-a record $18.59 trillion,a record $18.59 trillion,MONEY,,,en,1.1
-opus,opus,WORK_OF_ART,,,en,1.1
-"October 11, 2025","October 11, 2025",DATE,,,en,1.1
-the day,the day,DATE,,,en,1.1
 December 2025,December 2025,DATE,,,en,1.1
-morning,morning,TIME,,,en,1.1
-around 4pm,around 4pm,TIME,,,en,1.1
-the weekend,the weekend,DATE,,,en,1.1
-1,1,CARDINAL,,,en,1.1
-12,12,CARDINAL,,,en,1.1
+One,One,CARDINAL,,,en,1.1
+"October 11, 2025","October 11, 2025",DATE,,,en,1.1
 9:40 AM,9:40 AM,TIME,,,en,1.1
+7pm,7pm,TIME,,,en,1.1
+just yesterday,just yesterday,DATE,,,en,1.1
+Arcade x Recco Stretch Belt,Arcade x Recco Stretch Belt,FAC,,,en,1.1
+half of the year,half of the year,DATE,,,en,1.1
+week,week,DATE,,,en,1.1
 three-season,three-season,DATE,,,en,1.1
+2025-2026,2025-2026,DATE,,,en,1.1
+One to One,One to One,CARDINAL,,,en,1.1
+$197 billion,$197 billion,MONEY,,,en,1.1
+US$16bil -,US$16bil -,MONEY,,,en,1.1
+12.41%,12.41%,PERCENT,,,en,1.1
+opus,opus,WORK_OF_ART,,,en,1.1
+the day,the day,DATE,,,en,1.1
+November,November,DATE,,,en,1.1
+I Love LA,I Love LA,WORK_OF_ART,,,en,1.1
+October,October,DATE,,,en,1.1
 Libertarian,Libertarian,NORP,,,en,1.1
-the International Day,the International Day,EVENT,,,en,1.1
-3,3,CARDINAL,,,en,1.1
+a record $18.59 trillion,a record $18.59 trillion,MONEY,,,en,1.1
 "October 15, 2025","October 15, 2025",DATE,,,en,1.1
+year 13th of October,year 13th of October,DATE,,,en,1.1
+34th,34th,ORDINAL,,,en,1.1
+Wednesday,Wednesday,DATE,,,en,1.1
+1,1,CARDINAL,,,en,1.1
 2025-26,2025-26,DATE,,,en,1.1
+3,3,CARDINAL,,,en,1.1
+12,12,CARDINAL,,,en,1.1
+8,8,CARDINAL,,,en,1.1
 Thanksgiving,Thanksgiving,DATE,,,en,1.1
 libertarian,libertarian,NORP,,,en,1.1
-Wednesday,Wednesday,DATE,,,en,1.1
-34th,34th,ORDINAL,,,en,1.1
+Oilers,Oilers,NORP,,,en,1.1
 Friday,Friday,DATE,,,en,1.1
+This day,This day,DATE,,,en,1.1
+the International Day,the International Day,EVENT,,,en,1.1
 2024,2024,DATE,,,en,1.1
 ten percent,ten percent,PERCENT,,,en,1.1
+morning,morning,TIME,,,en,1.1
+the weekend,the weekend,DATE,,,en,1.1
 6,6,CARDINAL,,,en,1.1
 7/5,7/5,CARDINAL,,,en,1.1
-This day,This day,DATE,,,en,1.1
-Oilers,Oilers,NORP,,,en,1.1
-week,week,DATE,,,en,1.1
-8,8,CARDINAL,,,en,1.1
-year 13th of October,year 13th of October,DATE,,,en,1.1
-daily,daily,DATE,,,en,1.1
 the end of last week,the end of last week,DATE,,,en,1.1
-"Past Life"" Confessions Kids Shared With Their Parents","Past Life"" Confessions Kids Shared With Their Parents",WORK_OF_ART,,,en,1.0
-Nepalese,Nepalese,NORP,,,en,1.0
-this Veterans Day,this Veterans Day,DATE,,,en,1.0
-midday,midday,TIME,,,en,1.0
-the fifth week,the fifth week,DATE,,,en,1.0
-a million years,a million years,DATE,,,en,1.0
-this winter,this winter,DATE,,,en,1.0
-1945,1945,DATE,,,en,1.0
-At least three,At least three,CARDINAL,,,en,1.0
-Nov 4).The,Nov 4).The,DATE,,,en,1.0
-Avalanche Kills US CitizensNewsweek Red Hot Chili Pepp,Avalanche Kills US CitizensNewsweek Red Hot Chili Pepp,WORK_OF_ART,,,en,1.0
-at least 5,at least 5,CARDINAL,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
-a few years,a few years,DATE,,,en,1.0
-22 percent,22 percent,PERCENT,,,en,1.0
-75 percent,75 percent,PERCENT,,,en,1.0
-Week 5,Week 5,DATE,,,en,1.0
-a day earlier,a day earlier,DATE,,,en,1.0
-At least seven,At least seven,CARDINAL,,,en,1.0
-November 4,November 4,DATE,,,en,1.0
-Nov 4,Nov 4,DATE,,,en,1.0
-Nepals Mount,Nepals Mount,FAC,,,en,1.0
-2025-26 season,2025-26 season,DATE,,,en,1.0
+around 4pm,around 4pm,TIME,,,en,1.1
+daily,daily,DATE,,,en,1.1
++2931 chars,+2931 chars,WORK_OF_ART,,,en,1.0
 the early afternoon hours,the early afternoon hours,TIME,,,en,1.0
-Halloween,Halloween,DATE,,,en,1.0
-85,85,CARDINAL,,,en,1.0
-Asian,Asian,NORP,,,en,1.0
-November 5,November 5,DATE,,,en,1.0
+"Past Life"" Confessions Kids Shared With Their Parents","Past Life"" Confessions Kids Shared With Their Parents",WORK_OF_ART,,,en,1.0
+at least nine,at least nine,CARDINAL,,,en,1.0
+at least 5,at least 5,CARDINAL,,,en,1.0
+a few years,a few years,DATE,,,en,1.0
 36,36,CARDINAL,,,en,1.0
+November 5,November 5,DATE,,,en,1.0
+85,85,CARDINAL,,,en,1.0
+Halloween,Halloween,DATE,,,en,1.0
+Nepals Mount,Nepals Mount,FAC,,,en,1.0
++1837,+1837,NORP,,,en,1.0
+Asian,Asian,NORP,,,en,1.0
+November 4,November 4,DATE,,,en,1.0
+At least seven,At least seven,CARDINAL,,,en,1.0
+a day earlier,a day earlier,DATE,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+Nov 4).The,Nov 4).The,DATE,,,en,1.0
+Nov 4,Nov 4,DATE,,,en,1.0
+7 months,7 months,DATE,,,en,1.0
+Around 10,Around 10,CARDINAL,,,en,1.0
+$18.59 trillion,$18.59 trillion,MONEY,,,en,1.0
+22 percent,22 percent,PERCENT,,,en,1.0
++3437 chars],+3437 chars],WORK_OF_ART,,,en,1.0
+15,15,CARDINAL,,,en,1.0
+mid-September,mid-September,DATE,,,en,1.0
+recent weeks,recent weeks,DATE,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+a million years,a million years,DATE,,,en,1.0
+midday,midday,TIME,,,en,1.0
+this Veterans Day,this Veterans Day,DATE,,,en,1.0
+1945,1945,DATE,,,en,1.0
+75 percent,75 percent,PERCENT,,,en,1.0
+Spaniard,Spaniard,NORP,,,en,1.0
+Week 5,Week 5,DATE,,,en,1.0
+2025-26 season,2025-26 season,DATE,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+the fifth week,the fifth week,DATE,,,en,1.0
+this winter,this winter,DATE,,,en,1.0
+Nov. 15,Nov. 15,DATE,,,en,1.0
+Last season,Last season,DATE,,,en,1.0
+37 years,37 years,DATE,,,en,1.0
+11 December,11 December,DATE,,,en,1.0
+the ATP Finals,the ATP Finals,WORK_OF_ART,,,en,1.0
+Dodger Stadium,Dodger Stadium,FAC,,,en,1.0
+just one quarter,just one quarter,DATE,,,en,1.0
+their late 30s,their late 30s,DATE,,,en,1.0
+2011,2011,DATE,,,en,1.0
+Swedish,Swedish,NORP,,,en,1.0
+four-season,four-season,DATE,,,en,1.0
+Mamdani,Mamdani,PRODUCT,,,en,1.0
 Z,Z,PRODUCT,,,en,1.0
-30,30,CARDINAL,,,en,1.0
 95%,95%,PERCENT,,,en,1.0
-Conference of Parties,Conference of Parties,EVENT,,,en,1.0
-30th,30th,ORDINAL,,,en,1.0
-Himalayas,Himalayas,NORP,-0.18181818181818182,0.2727272727272727,en,1.0
-Ball Arena,Ball Arena,FAC,,,en,1.0
 $16 billion,$16 billion,MONEY,,,en,1.0
-Fourth Wing,Fourth Wing,FAC,,,en,1.0
 2nd,2nd,ORDINAL,,,en,1.0
 8 months,8 months,DATE,,,en,1.0
-their late 30s,their late 30s,DATE,,,en,1.0
-the coming week,the coming week,DATE,,,en,1.0
 Alaskan,Alaskan,NORP,,,en,1.0
+30,30,CARDINAL,,,en,1.0
 eight months ago,eight months ago,DATE,,,en,1.0
+At least three,At least three,CARDINAL,,,en,1.0
 last year,last year,DATE,,,en,1.0
-Dodger Stadium,Dodger Stadium,FAC,,,en,1.0
-Mamdani,Mamdani,PRODUCT,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-four-season,four-season,DATE,,,en,1.0
-+1837,+1837,NORP,,,en,1.0
-recent weeks,recent weeks,DATE,,,en,1.0
-Around 10,Around 10,CARDINAL,,,en,1.0
-+2931 chars,+2931 chars,WORK_OF_ART,,,en,1.0
-mid-September,mid-September,DATE,,,en,1.0
-at least nine,at least nine,CARDINAL,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
-$18.59 trillion,$18.59 trillion,MONEY,,,en,1.0
-15,15,CARDINAL,,,en,1.0
-just one quarter,just one quarter,DATE,,,en,1.0
-2011,2011,DATE,,,en,1.0
-+3437 chars],+3437 chars],WORK_OF_ART,,,en,1.0
-the ATP Finals,the ATP Finals,WORK_OF_ART,,,en,1.0
-Spaniard,Spaniard,NORP,,,en,1.0
-Swedish,Swedish,NORP,,,en,1.0
-eight,eight,CARDINAL,,,en,1.0
-7 months,7 months,DATE,,,en,1.0
-at least three,at least three,CARDINAL,,,en,1.0
-month,month,DATE,,,en,1.0
-Bohemian,Bohemian,NORP,,,en,1.0
+the coming week,the coming week,DATE,,,en,1.0
+Fourth Wing,Fourth Wing,FAC,,,en,1.0
+Ball Arena,Ball Arena,FAC,,,en,1.0
+Himalayas,Himalayas,NORP,-0.18181818181818182,0.2727272727272727,en,1.0
+30th,30th,ORDINAL,,,en,1.0
+Conference of Parties,Conference of Parties,EVENT,,,en,1.0
+Nepalese,Nepalese,NORP,,,en,1.0
+the Ortler moun,the Ortler moun,PRODUCT,,,en,1.0
+Avalanche Kills US CitizensNewsweek Red Hot Chili Pepp,Avalanche Kills US CitizensNewsweek Red Hot Chili Pepp,WORK_OF_ART,,,en,1.0
+the Womens FAI Cup Final,the Womens FAI Cup Final,EVENT,,,en,1.0
 Crypto Presale Ignites,Crypto Presale Ignites,WORK_OF_ART,,,en,1.0
 TRON,TRON,PRODUCT,,,en,1.0
 Oct. 19,Oct. 19,DATE,,,en,1.0
@@ -181,10 +183,11 @@ Thoughts & Prayers,Thoughts & Prayers,WORK_OF_ART,,,en,1.0
 "The Seduction""
 HBO Original Documentaries ""Alex vs ARod","The Seduction""
 HBO Original Documentaries ""Alex vs ARod",WORK_OF_ART,,,en,1.0
-the Womens FAI Cup Final,the Womens FAI Cup Final,EVENT,,,en,1.0
+"And ""Thoughts &amp","And ""Thoughts &amp",WORK_OF_ART,,,en,1.0
+Bohemian,Bohemian,NORP,,,en,1.0
 2.15pm,2.15pm,CARDINAL,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
 Tomorrow,Tomorrow,DATE,,,en,1.0
-Norwegian,Norwegian,NORP,,,en,1.0
 March 4,March 4,DATE,,,en,1.0
 seven months ago,seven months ago,DATE,,,en,1.0
 39,39,DATE,,,en,1.0
@@ -194,8 +197,8 @@ the day before,the day before,DATE,,,en,1.0
 4 months a year,4 months a year,DATE,,,en,1.0
 800 miles,800 miles,QUANTITY,,,en,1.0
 "2,000","2,000",CARDINAL,,,en,1.0
+Norwegian,Norwegian,NORP,,,en,1.0
 afternoon,afternoon,TIME,,,en,1.0
-The Day After,The Day After,DATE,,,en,1.0
 KeyBank Center,KeyBank Center,FAC,,,en,1.0
 Section 2 of the Voting Rights Act,Section 2 of the Voting Rights Act,LAW,,,en,1.0
 Annapurna I Base Camp,Annapurna I Base Camp,WORK_OF_ART,,,en,1.0
@@ -205,12 +208,11 @@ Annapurna Base Camp,Annapurna Base Camp,FAC,,,en,1.0
 weeks,weeks,DATE,,,en,1.0
 Argentines,Argentines,NORP,,,en,1.0
 United Rugby Championship,United Rugby Championship,EVENT,,,en,1.0
-"And ""Thoughts &amp","And ""Thoughts &amp",WORK_OF_ART,,,en,1.0
+The Day After,The Day After,DATE,,,en,1.0
+month,month,DATE,,,en,1.0
 Uefa Conference League,Uefa Conference League,EVENT,,,en,1.0
-three weeks,three weeks,DATE,,,en,1.0
 33,33,CARDINAL,,,en,1.0
-the Ortler moun,the Ortler moun,PRODUCT,,,en,1.0
-+1253 chars,+1253 chars,WORK_OF_ART,,,en,1.0
+flawless season,flawless season,DATE,,,en,1.0
 a relatively late hour,a relatively late hour,TIME,,,en,1.0
 Ortles,Ortles,NORP,,,en,1.0
 "more than 3,500m","more than 3,500m",QUANTITY,,,en,1.0
@@ -230,11 +232,12 @@ Big 12,Big 12,EVENT,,,en,1.0
 2021,2021,DATE,,,en,1.0
 the past eight weeks,the past eight weeks,DATE,,,en,1.0
 second,second,ORDINAL,,,en,1.0
+three weeks,three weeks,DATE,,,en,1.0
+at least three,at least three,CARDINAL,,,en,1.0
++1253 chars,+1253 chars,WORK_OF_ART,,,en,1.0
 2,2,CARDINAL,,,en,1.0
 December,December,DATE,,,en,1.0
-The best days,The best days,DATE,,,en,1.0
-1990,1990,DATE,,,en,1.0
-flawless season,flawless season,DATE,,,en,1.0
+the years,the years,DATE,,,en,1.0
 4,4,CARDINAL,,,en,1.0
 This week,This week,DATE,,,en,1.0
 Japanese,Japanese,NORP,,,en,1.0
@@ -243,9 +246,9 @@ French,French,NORP,,,en,1.0
 last seconds to minutes,last seconds to minutes,TIME,,,en,1.0
 First,First,ORDINAL,,,en,1.0
 Battle After Another,Battle After Another,WORK_OF_ART,,,en,1.0
-the years,the years,DATE,,,en,1.0
-1951,1951,DATE,,,en,1.0
+1990,1990,DATE,,,en,1.0
 19,19,CARDINAL,,,en,1.0
+The best days,The best days,DATE,,,en,1.0
 "more than 6,000","more than 6,000",CARDINAL,,,en,1.0
 Americans,Americans,NORP,,,en,1.0
 31,31,DATE,,,en,1.0
@@ -254,4 +257,5 @@ Has Finally Arrived,Has Finally Arrived,WORK_OF_ART,,,en,1.0
 the week,the week,DATE,,,en,1.0
 8pm,8pm,TIME,,,en,1.0
 Irish,Irish,NORP,,,en,1.0
-Nov. 15,Nov. 15,DATE,,,en,1.0
+1951,1951,DATE,,,en,1.0
+six,six,CARDINAL,,,en,1.0
