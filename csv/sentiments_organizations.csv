@@ -10,60 +10,62 @@ Trump,Trump,ORG,1.7857142857142854,1.089285714285714,en,1.4000000000000004
 BYU,BYU,ORG,0.4294871794871794,0.6282051282051281,en,1.3000000000000003
 Disney,Disney,ORG,0.4982517482517481,1.7657342657342654,en,1.3000000000000003
 CHL,CHL,ORG,0.6510416666666665,0.5208333333333333,en,1.2000000000000002
-the Xbox Ally,the Xbox Ally,ORG,0.0,0.0,en,1.1
-EU,EU,ORG,0.09090909090909091,0.5909090909090908,en,1.1
+APAC,APAC,ORG,0.0,0.0,en,1.1
 Meta,Meta,ORG,0.303030303030303,0.45454545454545453,en,1.1
 Avalanche,Avalanche,ORG,0.0,0.0,en,1.1
-APAC,APAC,ORG,0.0,0.0,en,1.1
-CBDC,CBDC,ORG,0.0,0.0,en,1.1
-Dodger Stadium,Dodger Stadium,ORG,0.0,0.9090909090909091,en,1.1
+EU,EU,ORG,0.09090909090909091,0.5909090909090908,en,1.1
 SurvivalBlog,SurvivalBlog,ORG,0.0,0.0,en,1.1
-Scriptnotes,Scriptnotes,ORG,0.45454545454545453,0.0,en,1.1
-the Colorado Avalanche,the Colorado Avalanche,ORG,-0.303030303030303,0.0,en,1.1
+Brigham Young,Brigham Young,ORG,0.13311688311688308,0.28409090909090906,en,1.1
+Dodger Stadium,Dodger Stadium,ORG,0.0,0.9090909090909091,en,1.1
+the Xbox Ally,the Xbox Ally,ORG,0.0,0.0,en,1.1
 Microsoft,Microsoft,ORG,-0.022727272727272728,0.5909090909090908,en,1.1
 Xbox,Xbox,ORG,0.0,0.09090909090909091,en,1.1
-Avalanche Cookies,Avalanche Cookies,ORG,0.33428030303030304,0.668560606060606,en,1.1
-NHL,NHL,ORG,0.6111111111111112,0.3585858585858586,en,1.1
+CBDC,CBDC,ORG,0.0,0.0,en,1.1
 RECCO,RECCO,ORG,-0.014462809917355376,0.0,en,1.1
-Brigham Young,Brigham Young,ORG,0.13311688311688308,0.28409090909090906,en,1.1
-NCAA,NCAA,ORG,0.2556818181818182,0.28409090909090906,en,1.1
-Parks Canada,Parks Canada,ORG,0.9090909090909091,0.45454545454545453,en,1.1
+NHL,NHL,ORG,0.6111111111111112,0.3585858585858586,en,1.1
+the Colorado Avalanche,the Colorado Avalanche,ORG,-0.303030303030303,0.0,en,1.1
 Texas Tech football,Texas Tech football,ORG,0.11363636363636363,0.09090909090909091,en,1.1
-Peoples' Review,Peoples' Review,ORG,-0.275,0.0,en,1.0
-Brit +…,Brit +…,ORG,0.0,0.0,en,1.0
-Reddit,Reddit,ORG,0.06458333333333333,0.0,en,1.0
+NCAA,NCAA,ORG,0.2556818181818182,0.28409090909090906,en,1.1
+Scriptnotes,Scriptnotes,ORG,0.45454545454545453,0.0,en,1.1
+Avalanche Cookies,Avalanche Cookies,ORG,0.33428030303030304,0.668560606060606,en,1.1
+Parks Canada,Parks Canada,ORG,0.9090909090909091,0.45454545454545453,en,1.1
+guidesCBS News Three,guidesCBS News Three,ORG,-0.13055555555555554,0.0,en,1.0
+Nepali Congress,Nepali Congress,ORG,0.2041666666666667,0.0,en,1.0
+The Kathmandu Post,The Kathmandu Post,ORG,0.0,0.0,en,1.0
+Himalayan avalancheBBC,Himalayan avalancheBBC,ORG,-0.13055555555555554,0.0,en,1.0
 "Brit + Co
 Leggo","Brit + Co
 Leggo",ORG,0.0,0.0,en,1.0
-TapiocaTuesday,TapiocaTuesday,ORG,0.06458333333333333,0.0,en,1.0
-Google News,Google News,ORG,0.11249999999999999,0.0,en,1.0
-CNN,CNN,ORG,-0.125,0.0,en,1.0
-guidesCBS News Three,guidesCBS News Three,ORG,-0.13055555555555554,0.0,en,1.0
-Himalayan avalancheBBC,Himalayan avalancheBBC,ORG,-0.13055555555555554,0.0,en,1.0
-Tech,Tech,ORG,-0.0035714285714285865,0.0,en,1.0
-The Kathmandu Post,The Kathmandu Post,ORG,0.0,0.0,en,1.0
-the United Nations General Assembly,the United Nations General Assembly,ORG,0.03571428571428571,0.0,en,1.0
-Nepali Congress,Nepali Congress,ORG,0.2041666666666667,0.0,en,1.0
+Peoples' Review,Peoples' Review,ORG,-0.275,0.0,en,1.0
 ARCADE X RECCO STRETCH BELT,ARCADE X RECCO STRETCH BELT,ORG,0.0,0.0,en,1.0
+CNN,CNN,ORG,-0.125,0.0,en,1.0
+Google News,Google News,ORG,0.11249999999999999,0.0,en,1.0
+Reddit,Reddit,ORG,0.06458333333333333,0.0,en,1.0
+Brit +…,Brit +…,ORG,0.0,0.0,en,1.0
+TapiocaTuesday,TapiocaTuesday,ORG,0.06458333333333333,0.0,en,1.0
+the United Nations General Assembly,the United Nations General Assembly,ORG,0.03571428571428571,0.0,en,1.0
+Colorado Avalanche Information Center,Colorado Avalanche Information Center,ORG,0.15000000000000002,0.0,en,1.0
+Edmonton Oilers,Edmonton Oilers,ORG,-0.3333333333333333,0.0,en,1.0
+The Colorado Avalanche Informa,The Colorado Avalanche Informa,ORG,0.0,0.0,en,1.0
+Southern Cairngorms,Southern Cairngorms,ORG,0.0,0.0,en,1.0
 Lochaber,Lochaber,ORG,0.0,0.0,en,1.0
 the Scottish Avalanche Information Service,the Scottish Avalanche Information Service,ORG,0.0,0.0,en,1.0
 Glacier National Park,Glacier National Park,ORG,0.0,0.0,en,1.0
 SportsLine NHL,SportsLine NHL,ORG,0.17222222222222222,0.0,en,1.0
 Eagles,Eagles,ORG,0.275,0.0,en,1.0
 Giants,Giants,ORG,0.275,0.0,en,1.0
-Edmonton Oilers,Edmonton Oilers,ORG,-0.3333333333333333,0.0,en,1.0
 Los Angeles Dodgers,Los Angeles Dodgers,ORG,-0.13571428571428573,0.0,en,1.0
+the Colorado Avalanche Information Center,the Colorado Avalanche Information Center,ORG,0.23333333333333336,0.0,en,1.0
 ATP Finals,ATP Finals,ORG,0.5,0.0,en,1.0
 Colorado Avalanche,Colorado Avalanche,ORG,-0.4,0.0,en,1.0
 Basgiath War College,Basgiath War College,ORG,0.0,0.0,en,1.0
 Prepping Progress,Prepping Progress,ORG,0.0,0.0,en,1.0
 The Independent,The Independent,ORG,0.0,0.0,en,1.0
-Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
-Credit,Credit,ORG,0.0,0.0,en,1.0
-the Colorado Avalanche Information Center,the Colorado Avalanche Information Center,ORG,0.23333333333333336,0.0,en,1.0
-Colorado Avalanche Information Center,Colorado Avalanche Information Center,ORG,0.15000000000000002,0.0,en,1.0
+Tech,Tech,ORG,-0.0035714285714285865,0.0,en,1.0
 Facebook,Facebook,ORG,0.0,0.0,en,1.0
-the Grateful Dead’s,the Grateful Dead’s,ORG,0.10909090909090909,0.0,en,1.0
+Credit,Credit,ORG,0.0,0.0,en,1.0
+Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
+ar,ar,ORG,0.25,0.0,en,1.0
 Sa,Sa,ORG,-0.2,0.0,en,1.0
 New Avalanche,New Avalanche,ORG,0.2732323232323232,0.0,en,1.0
 TRX,TRX,ORG,0.0,0.0,en,1.0
@@ -92,8 +94,8 @@ Argentin,Argentin,ORG,0.0,0.0,en,1.0
 TikTok,TikTok,ORG,0.18167388167388168,0.0,en,1.0
 John & Yoko,John & Yoko,ORG,0.3371212121212121,0.0,en,1.0
 Cardano,Cardano,ORG,0.0875,0.0,en,1.0
-ar,ar,ORG,0.25,0.0,en,1.0
 HistorySverker,HistorySverker,ORG,0.5,0.0,en,1.0
+the Grateful Dead’s,the Grateful Dead’s,ORG,0.10909090909090909,0.0,en,1.0
 Latest Grateful Dead Opus ‘Mountains of the Moon,Latest Grateful Dead Opus ‘Mountains of the Moon,ORG,0.09999999999999999,0.0,en,1.0
 Asia Crypto Regulations to Watch,Asia Crypto Regulations to Watch,ORG,0.0,0.0,en,1.0
 Digital Currency Strategies Diverge,Digital Currency Strategies Diverge,ORG,0.0,0.0,en,1.0
@@ -114,4 +116,4 @@ The Xbox Insider Program,The Xbox Insider Program,ORG,-0.025,0.0,en,1.0
 Celje,Celje,ORG,-0.6999999999999998,0.0,en,1.0
 John &amp,John &amp,ORG,0.34659090909090906,0.0,en,1.0
 HBO Original,HBO Original,ORG,0.34659090909090906,0.0,en,1.0
-Southern Cairngorms,Southern Cairngorms,ORG,0.0,0.0,en,1.0
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
