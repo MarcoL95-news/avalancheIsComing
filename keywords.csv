@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.08602354096024005
 'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.0859553184274412
 'avalanche search',en,Mitigation,#00ff00,#00ff00,3,0.0826961862710927
+'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.08261030949362334
 'avalanche ski',en,Hazard,#ff0000,#ff0000,1,0.0805679109625114
 'avalanche mountain',en,Hazard,#ff0000,#ff0000,2,0.0797376710351519
 'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.0760811822655913
