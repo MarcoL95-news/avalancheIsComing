@@ -1,160 +1,246 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Avalanche,Avalanche,ORG,0.5494422580786217,1.0776807031352484,en,9.9
-NHL,NHL,ORG,0.598839095522769,1.0398315025866047,en,9.799999999999999
-the Colorado Avalanche,the Colorado Avalanche,ORG,-0.0985952046078628,1.239191949634987,en,7.900000000000004
+Avalanche,Avalanche,ORG,0.5675872089174843,1.105212544845573,en,10.899999999999997
+NHL,NHL,ORG,0.5868623136123138,1.0190348725348728,en,9.999999999999998
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.3892013318737456,1.403806330961503,en,8.700000000000001
+the Colorado Avalanche,the Colorado Avalanche,ORG,-0.042871431400843166,1.2873167246696657,en,8.500000000000002
+Trump,Trump,ORG,0.4742213804713805,0.7541035353535354,en,7.199999999999999
+Colorado Avalanche,Colorado Avalanche,ORG,-0.08005834744965176,1.5915929481146864,en,6.900000000000004
 Avalanche Canada,Avalanche Canada,ORG,0.08388230127360563,0.463987703118138,en,6.8999999999999995
-Colorado Avalanche,Colorado Avalanche,ORG,-0.07842369270940695,1.5077234934377786,en,6.300000000000003
 AP,AP,ORG,-0.031165099268547554,0.5308385579937304,en,5.8
-Trump,Trump,ORG,0.6200838168923275,0.914087685364281,en,4.7
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.2861291486291485,1.0915223665223663,en,4.400000000000001
-The Colorado Avalanche,The Colorado Avalanche,ORG,0.5110112755461592,1.1989664082687337,en,4.300000000000001
+The Colorado Avalanche,The Colorado Avalanche,ORG,0.43959330143540665,1.2897173489278748,en,5.700000000000002
 Sierra Nevada,Sierra Nevada,ORG,-0.19047619047619047,0.0,en,4.2
 Reuters,Reuters,ORG,0.12309941520467832,0.43815789473684197,en,3.8000000000000007
 The Colorado Avalanche Information Center,The Colorado Avalanche Information Center,ORG,-0.01764705882352941,0.3509803921568628,en,3.4000000000000004
 SportsLine NHL,SportsLine NHL,ORG,0.12738948626045402,0.3829151732377539,en,3.0999999999999996
 Xinhua,Xinhua,ORG,0.08764367816091953,0.27155172413793105,en,2.9000000000000004
 Environment Canada,Environment Canada,ORG,0.2960356112141827,0.6509482580911152,en,2.8
+Parks Canada,Parks Canada,ORG,0.30864197530864196,0.8641975308641975,en,2.7
 KATHMANDU,KATHMANDU,ORG,-0.1575091575091575,0.005494505494505495,en,2.6
+the Nashville Predators,the Nashville Predators,ORG,0.3262731481481481,0.7364583333333334,en,2.4
 Netflix,Netflix,ORG,0.2727272727272727,0.6136363636363635,en,2.2
-Avs,Avs,ORG,0.22500000000000003,0.3166666666666667,en,1.9999999999999998
-the Nashville Predators,the Nashville Predators,ORG,0.2977777777777778,0.6233333333333335,en,1.9999999999999998
+Avs,Avs,ORG,0.20454545454545459,0.2878787878787879,en,2.1999999999999997
+Davos,Davos,ORG,0.0,0.023809523809523808,en,2.1
 BEDING,BEDING,ORG,-0.2105263157894737,0.026315789473684213,en,1.9
 CAIC,CAIC,ORG,0.13157894736842105,0.13157894736842105,en,1.9
-Reddit,Reddit,ORG,0.3136574074074074,0.2777777777777778,en,1.8
 the National Weather Service,the National Weather Service,ORG,0.0,0.18518518518518517,en,1.8
+Resort,Resort,ORG,0.22222222222222224,0.0,en,1.8
 Snowmobiler,Snowmobiler,ORG,-0.25925925925925924,0.0,en,1.8
 DOJ,DOJ,ORG,-0.08333333333333333,0.0,en,1.8
-Armed Police Force,Armed Police Force,ORG,0.0,0.0,en,1.8
 The Kittitas County Sheriff's Office,The Kittitas County Sheriff's Office,ORG,-0.02777777777777778,0.0,en,1.8
+Armed Police Force,Armed Police Force,ORG,0.0,0.0,en,1.8
 Haines,Haines,ORG,-0.06944444444444443,0.25925925925925924,en,1.8
-Pic de l'Hortell,Pic de l'Hortell,ORG,0.0,0.0,en,1.8
-Resort,Resort,ORG,0.22222222222222224,0.0,en,1.8
 Kestenholz,Kestenholz,ORG,0.0,0.0,en,1.8
+Reddit,Reddit,ORG,0.3136574074074074,0.2777777777777778,en,1.8
+Pic de l'Hortell,Pic de l'Hortell,ORG,0.0,0.0,en,1.8
 the Minnesota Wild,the Minnesota Wild,ORG,0.8564814814814816,1.1296296296296298,en,1.7999999999999998
 newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.7
 Avalanche Foundation,Avalanche Foundation,ORG,-0.23529411764705885,0.2463235294117647,en,1.7
-NPR,NPR,ORG,0.25,0.8463541666666665,en,1.6
-Exchange,Exchange,ORG,0.0,0.0,en,1.6
-Met Office,Met Office,ORG,0.40625,0.5625,en,1.6
 Warner Bros. Television,Warner Bros. Television,ORG,0.24999999999999997,0.390625,en,1.6
+Met Office,Met Office,ORG,0.40625,0.5625,en,1.6
 Penn State,Penn State,ORG,-0.4374999999999999,0.0,en,1.6
 Team Canada's,Team Canada's,ORG,-0.05781250000000002,0.42499999999999993,en,1.6
+Exchange,Exchange,ORG,0.0,0.0,en,1.6
+NPR,NPR,ORG,0.25,0.8463541666666665,en,1.6
 Stanley Cup,Stanley Cup,ORG,0.03333333333333333,0.7333333333333334,en,1.5
 Texas Tech,Texas Tech,ORG,0.16666666666666663,0.4732142857142856,en,1.4000000000000004
 Microsoft,Microsoft,ORG,-0.017857142857142856,0.9999999999999999,en,1.4000000000000001
 EU,EU,ORG,0.014610389610389614,0.7213203463203463,en,1.4000000000000001
+Ford,Ford,ORG,-0.09523809523809525,0.40476190476190477,en,1.4
+Panthers,Panthers,ORG,0.5714285714285715,0.28571428571428575,en,1.4
 the Florida Panthers,the Florida Panthers,ORG,0.6357142857142858,0.6107142857142858,en,1.4
 the Vancouver Canucks,the Vancouver Canucks,ORG,0.16883116883116883,0.538961038961039,en,1.4
-Panthers,Panthers,ORG,0.5714285714285715,0.28571428571428575,en,1.4
-Ford,Ford,ORG,-0.09523809523809525,0.40476190476190477,en,1.4
 Disney,Disney,ORG,0.4982517482517481,1.7657342657342654,en,1.3000000000000003
 BYU,BYU,ORG,0.4294871794871794,0.6282051282051281,en,1.3000000000000003
-Cardano,Cardano,ORG,0.1722027972027972,0.34965034965034963,en,1.3
-Sa,Sa,ORG,-0.07692307692307693,0.07692307692307693,en,1.3
-Snow League,Snow League,ORG,0.09615384615384615,0.1282051282051282,en,1.3
-rusty emery board,rusty emery board,ORG,0.0,0.0,en,1.3
-CIA,CIA,ORG,-0.3076923076923077,0.2564102564102564,en,1.3
-Kyndal Stowers,Kyndal Stowers,ORG,-0.11538461538461538,0.33974358974358976,en,1.3
+The Finnish Meteorological Institute,The Finnish Meteorological Institute,ORG,0.03365384615384615,0.1875,en,1.3
 Sporting Life,Sporting Life,ORG,0.5769230769230769,0.23076923076923075,en,1.3
 Daily Caller News Foundation,Daily Caller News Foundation,ORG,0.08717948717948718,0.15897435897435894,en,1.3
-Michigan Basketball,Michigan Basketball,ORG,0.06593406593406591,0.4871794871794871,en,1.3
-Civil Guard,Civil Guard,ORG,0.21794871794871792,0.5,en,1.3
-M&A,M&A,ORG,0.0,0.0,en,1.3
-The Finnish Meteorological Institute,The Finnish Meteorological Institute,ORG,0.03365384615384615,0.1875,en,1.3
-Kraken,Kraken,ORG,0.03846153846153846,0.29700854700854695,en,1.3
-IPO,IPO,ORG,0.03846153846153846,0.29700854700854695,en,1.3
-MetaMask,MetaMask,ORG,0.10489510489510488,0.0,en,1.3
-Jasper,Jasper,ORG,0.1923076923076923,0.21794871794871792,en,1.3
-Loveland Pass,Loveland Pass,ORG,0.1923076923076923,0.2564102564102564,en,1.3
-ELMONT,ELMONT,ORG,0.00932400932400932,0.2191142191142191,en,1.3
-National Hockey League,National Hockey League,ORG,0.0,0.0,en,1.3
-the Santagiulia Ice Hockey Arena,the Santagiulia Ice Hockey Arena,ORG,0.0,0.3846153846153846,en,1.3
+Snow League,Snow League,ORG,0.09615384615384615,0.1282051282051282,en,1.3
 Edmonton,Edmonton,ORG,0.0743006993006993,0.2508741258741259,en,1.3
-The Sporting News,The Sporting News,ORG,0.0673076923076923,0.0,en,1.3
-OsmAnd,OsmAnd,ORG,0.07692307692307693,0.3846153846153846,en,1.3
+MetaMask,MetaMask,ORG,0.10489510489510488,0.0,en,1.3
+Civil Guard,Civil Guard,ORG,0.21794871794871792,0.5,en,1.3
+ORF,ORF,ORG,0.0,0.0,en,1.3
 Topography,Topography,ORG,0.07692307692307693,0.3846153846153846,en,1.3
-Capcom,Capcom,ORG,-0.009324009324009331,0.47202797202797203,en,1.3
-The Old Farmer's,The Old Farmer's,ORG,-0.15384615384615383,0.15384615384615385,en,1.3
+OsmAnd,OsmAnd,ORG,0.07692307692307693,0.3846153846153846,en,1.3
+TMC,TMC,ORG,0.4395604395604395,0.41208791208791207,en,1.3
+India News,India News,ORG,0.40354090354090355,0.41208791208791207,en,1.3
+Loveland Pass,Loveland Pass,ORG,0.1923076923076923,0.2564102564102564,en,1.3
+The Sporting News,The Sporting News,ORG,0.0673076923076923,0.0,en,1.3
 Chicago Blackhawks',Chicago Blackhawks',ORG,-0.08653846153846155,0.3076923076923077,en,1.3
+rusty emery board,rusty emery board,ORG,0.0,0.0,en,1.3
+Jasper,Jasper,ORG,0.1923076923076923,0.21794871794871792,en,1.3
+National Hockey League,National Hockey League,ORG,0.0,0.0,en,1.3
+IPO,IPO,ORG,0.03846153846153846,0.29700854700854695,en,1.3
+Kraken,Kraken,ORG,0.03846153846153846,0.29700854700854695,en,1.3
+M&A,M&A,ORG,0.0,0.0,en,1.3
+Michigan Basketball,Michigan Basketball,ORG,0.06593406593406591,0.4871794871794871,en,1.3
+Kyndal Stowers,Kyndal Stowers,ORG,-0.11538461538461538,0.33974358974358976,en,1.3
+CIA,CIA,ORG,-0.3076923076923077,0.2564102564102564,en,1.3
+Cardano,Cardano,ORG,0.1722027972027972,0.34965034965034963,en,1.3
+Capcom,Capcom,ORG,-0.009324009324009331,0.47202797202797203,en,1.3
+the Santagiulia Ice Hockey Arena,the Santagiulia Ice Hockey Arena,ORG,0.0,0.3846153846153846,en,1.3
+Sa,Sa,ORG,-0.07692307692307693,0.07692307692307693,en,1.3
+ELMONT,ELMONT,ORG,0.00932400932400932,0.2191142191142191,en,1.3
 BSI,BSI,ORG,0.0,0.5769230769230769,en,1.3
+The Old Farmer's,The Old Farmer's,ORG,-0.15384615384615383,0.15384615384615385,en,1.3
 CHL,CHL,ORG,0.6510416666666665,0.5208333333333333,en,1.2000000000000002
 Central,Central,ORG,0.19444444444444442,0.27314814814814814,en,1.2
+Minnesota Wild,Minnesota Wild,ORG,0.19444444444444442,0.27314814814814814,en,1.2
+Avalanche Studios,Avalanche Studios,ORG,0.08333333333333331,0.375,en,1.2
+GeForce NOW,GeForce NOW,ORG,0.43749999999999994,0.6458333333333334,en,1.2
+Victory Red,Victory Red,ORG,-0.04166666666666667,0.0,en,1.2
+Medium Neutral,Medium Neutral,ORG,-0.04166666666666667,0.0,en,1.2
 Navy,Navy,ORG,0.0,0.0,en,1.2
-RNA,RNA,ORG,-0.06944444444444445,0.0,en,1.2
+The Vancouver Canucks,The Vancouver Canucks,ORG,-0.12152777777777779,0.3506944444444444,en,1.2
 AVAX,AVAX,ORG,0.25,0.0,en,1.2
 HidingRoyal Experts Sound Alarm,HidingRoyal Experts Sound Alarm,ORG,0.5185185185185186,0.28472222222222227,en,1.2
-the Central Division,the Central Division,ORG,0.14583333333333334,0.2881944444444445,en,1.2
-Minnesota Wild,Minnesota Wild,ORG,0.19444444444444442,0.27314814814814814,en,1.2
-GeForce NOW,GeForce NOW,ORG,0.43749999999999994,0.6458333333333334,en,1.2
-the Minnesota Wild at Grand Casino Arena,the Minnesota Wild at Grand Casino Arena,ORG,0.3333333333333333,0.6666666666666666,en,1.2
-Florida Panthers,Florida Panthers,ORG,-0.16203703703703703,0.34722222222222227,en,1.2
-The Vancouver Canucks,The Vancouver Canucks,ORG,-0.12152777777777779,0.3506944444444444,en,1.2
-KTM,KTM,ORG,0.02777777777777778,0.25,en,1.2
-Valeri Nichushkin,Valeri Nichushkin,ORG,0.5833333333333334,0.45833333333333337,en,1.2
-Medium Neutral,Medium Neutral,ORG,-0.04166666666666667,0.0,en,1.2
 NHL Power Rankings,NHL Power Rankings,ORG,-0.9027777777777778,0.4444444444444445,en,1.2
-Avalanche Studios,Avalanche Studios,ORG,0.08333333333333331,0.375,en,1.2
-SUNRISE,SUNRISE,ORG,0.3055555555555556,0.6666666666666666,en,1.2
+Florida Panthers,Florida Panthers,ORG,-0.16203703703703703,0.34722222222222227,en,1.2
 Record Financial,Record Financial,ORG,-0.10101010101010102,0.23737373737373738,en,1.2
-Victory Red,Victory Red,ORG,-0.04166666666666667,0.0,en,1.2
-Xbox,Xbox,ORG,0.0,0.09090909090909091,en,1.1
-APAC,APAC,ORG,0.0,0.0,en,1.1
-CBDC,CBDC,ORG,0.0,0.0,en,1.1
-Meta,Meta,ORG,0.303030303030303,0.45454545454545453,en,1.1
-SurvivalBlog,SurvivalBlog,ORG,0.0,0.0,en,1.1
-NCAA,NCAA,ORG,0.2556818181818182,0.28409090909090906,en,1.1
-Scriptnotes,Scriptnotes,ORG,0.45454545454545453,0.0,en,1.1
-Avalanche Cookies,Avalanche Cookies,ORG,0.33428030303030304,0.668560606060606,en,1.1
-The Independent,The Independent,ORG,0.0,0.08838383838383838,en,1.1
-RECCO,RECCO,ORG,-0.014462809917355376,0.0,en,1.1
-Big Tech,Big Tech,ORG,0.0,0.08838383838383838,en,1.1
-the Xbox Ally,the Xbox Ally,ORG,0.0,0.0,en,1.1
-Parks Canada,Parks Canada,ORG,0.9090909090909091,0.45454545454545453,en,1.1
-Texas Tech football,Texas Tech football,ORG,0.11363636363636363,0.09090909090909091,en,1.1
+KTM,KTM,ORG,0.02777777777777778,0.25,en,1.2
+the Minnesota Wild at Grand Casino Arena,the Minnesota Wild at Grand Casino Arena,ORG,0.3333333333333333,0.6666666666666666,en,1.2
+Valeri Nichushkin,Valeri Nichushkin,ORG,0.5833333333333334,0.45833333333333337,en,1.2
+the Central Division,the Central Division,ORG,0.14583333333333334,0.2881944444444445,en,1.2
+NHL Game,NHL Game,ORG,-0.6666666666666667,0.33333333333333337,en,1.2
+RNA,RNA,ORG,-0.06944444444444445,0.0,en,1.2
+SUNRISE,SUNRISE,ORG,0.3055555555555556,0.6666666666666666,en,1.2
 Brigham Young,Brigham Young,ORG,0.13311688311688308,0.28409090909090906,en,1.1
+Avalanche Cookies,Avalanche Cookies,ORG,0.33428030303030304,0.668560606060606,en,1.1
+Texas Tech football,Texas Tech football,ORG,0.11363636363636363,0.09090909090909091,en,1.1
+CBDC,CBDC,ORG,0.0,0.0,en,1.1
 Dodger Stadium,Dodger Stadium,ORG,0.0,0.9090909090909091,en,1.1
-The River Forecast Centre,The River Forecast Centre,ORG,0.0,0.0,en,1.0
-Kraken IPO,Kraken IPO,ORG,0.0,0.0,en,1.0
-Michigan Football,Michigan Football,ORG,0.0,0.0,en,1.0
-"Getty Images / Imago
-","Getty Images / Imago
-",ORG,0.1,0.0,en,1.0
-Road To Jackson Hole Buried,Road To Jackson Hole Buried,ORG,0.21428571428571427,0.0,en,1.0
-P. &amp,P. &amp,ORG,0.25,0.0,en,1.0
-Dusty May’s,Dusty May’s,ORG,-0.2,0.0,en,1.0
+The Independent,The Independent,ORG,0.0,0.08838383838383838,en,1.1
+NCAA,NCAA,ORG,0.2556818181818182,0.28409090909090906,en,1.1
+Xbox,Xbox,ORG,0.0,0.09090909090909091,en,1.1
+Meta,Meta,ORG,0.303030303030303,0.45454545454545453,en,1.1
+Big Tech,Big Tech,ORG,0.0,0.08838383838383838,en,1.1
+APAC,APAC,ORG,0.0,0.0,en,1.1
+Scriptnotes,Scriptnotes,ORG,0.45454545454545453,0.0,en,1.1
+RECCO,RECCO,ORG,-0.014462809917355376,0.0,en,1.1
+the Xbox Ally,the Xbox Ally,ORG,0.0,0.0,en,1.1
+SurvivalBlog,SurvivalBlog,ORG,0.0,0.0,en,1.1
+MacKinnon,MacKinnon,ORG,0.0,0.0,en,1.0
+the Roberts Court,the Roberts Court,ORG,-0.25,0.0,en,1.0
+Aussie Streaming Guide,Aussie Streaming Guide,ORG,1.0,0.0,en,1.0
+Judicial Sanewashing Wrecked the Legal System,Judicial Sanewashing Wrecked the Legal System,ORG,0.2,0.0,en,1.0
+the Supreme Court’s,the Supreme Court’s,ORG,0.2,0.0,en,1.0
+Congress,Congress,ORG,-0.13333333333333333,0.0,en,1.0
+Blacky,Blacky,ORG,0.0,0.0,en,1.0
+the UK,the UK,ORG,0.0,0.0,en,1.0
+Tyrone,Tyrone,ORG,-0.07777777777777779,0.0,en,1.0
+"Down, Fermanagh","Down, Fermanagh",ORG,-0.07777777777777779,0.0,en,1.0
+Brass Bonanza,Brass Bonanza,ORG,0.2625,0.0,en,1.0
+The Best TV & Movies,The Best TV & Movies,ORG,1.0,0.0,en,1.0
+Angus,Angus,ORG,0.0,0.0,en,1.0
+WhalerCanes,WhalerCanes,ORG,0.2625,0.0,en,1.0
+Avalanche (Nordiques,Avalanche (Nordiques,ORG,-0.4,0.0,en,1.0
+Rock Hudson,Rock Hudson,ORG,0.0,0.0,en,1.0
+Barra Best,Barra Best,ORG,0.3181818181818182,0.0,en,1.0
+the U.S. Bureau of Labor Statistics,the U.S. Bureau of Labor Statistics,ORG,0.0,0.0,en,1.0
+GAA,GAA,ORG,-0.1,0.0,en,1.0
+outKTOO Heavy,outKTOO Heavy,ORG,-0.0016666666666666718,0.0,en,1.0
+Apple TV+,Apple TV+,ORG,0.0,0.0,en,1.0
+sti,sti,ORG,-0.125,0.0,en,1.0
+The Met Office,The Met Office,ORG,0.0,0.0,en,1.0
+Carlo,Carlo,ORG,0.0,0.0,en,1.0
+"Amsterdam
+","Amsterdam
+",ORG,0.0,0.0,en,1.0
+Supreme Court,Supreme Court,ORG,-0.13333333333333333,0.0,en,1.0
+United States Olympic,United States Olympic,ORG,-0.1,0.0,en,1.0
+TikTok,TikTok,ORG,0.18167388167388168,0.0,en,1.0
+&amp,&amp,ORG,0.0,0.0,en,1.0
+Terror Train',Terror Train',ORG,0.3621212121212121,0.0,en,1.0
+The Haida Nation,The Haida Nation,ORG,0.0,0.0,en,1.0
+Vardousia,Vardousia,ORG,0.0,0.0,en,1.0
+Ge,Ge,ORG,0.0,0.0,en,1.0
+ALTADENA,ALTADENA,ORG,0.0,0.0,en,1.0
+Islam,Islam,ORG,0.25,0.0,en,1.0
 IDF,IDF,ORG,-0.07954545454545454,0.0,en,1.0
-Thunder,Thunder,ORG,0.0,0.0,en,1.0
+Forecaste,Forecaste,ORG,0.0,0.0,en,1.0
+Rabo de Peixe,Rabo de Peixe,ORG,0.125,0.0,en,1.0
+12.40pm &amp,12.40pm &amp,ORG,0.375,0.0,en,1.0
+Lions,Lions,ORG,0.375,0.0,en,1.0
+Kraken IPO,Kraken IPO,ORG,0.0,0.0,en,1.0
+Scarlets,Scarlets,ORG,0.375,0.0,en,1.0
+Road To Jackson Hole Buried,Road To Jackson Hole Buried,ORG,0.21428571428571427,0.0,en,1.0
+Michigan Football,Michigan Football,ORG,0.0,0.0,en,1.0
+Dusty May’s,Dusty May’s,ORG,-0.2,0.0,en,1.0
+Croke Pa…,Croke Pa…,ORG,0.0,0.0,en,1.0
 The Winter Solstice,The Winter Solstice,ORG,-0.5,0.0,en,1.0
 Colorado Avalanche @,Colorado Avalanche @,ORG,0.05,0.0,en,1.0
-Nashville Predators @,Nashville Predators @,ORG,0.0,0.0,en,1.0
-the Edmonton Oilers 2029,the Edmonton Oilers 2029,ORG,0.0,0.0,en,1.0
-Islam,Islam,ORG,0.25,0.0,en,1.0
-the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,1.0
-The United Nations,The United Nations,ORG,0.0,0.0,en,1.0
-undefi,undefi,ORG,0.0,0.0,en,1.0
-Mountain Mudslide Engulfs Road Workers,Mountain Mudslide Engulfs Road Workers,ORG,0.0,0.0,en,1.0
-12:04:04,12:04:04,ORG,0.0,0.0,en,1.0
-PoS,PoS,ORG,0.0,0.0,en,1.0
-the Proof of Stake,the Proof of Stake,ORG,0.0,0.0,en,1.0
-CFN,CFN,ORG,0.0,0.0,en,1.0
-+2295,+2295,ORG,0.25,0.0,en,1.0
-Hyperliquid,Hyperliquid,ORG,0.0625,0.0,en,1.0
-Jets,Jets,ORG,0.2,0.0,en,1.0
-the Anaheim Ducks,the Anaheim Ducks,ORG,0.012121212121212116,0.0,en,1.0
-SEC,SEC,ORG,-0.03333333333333333,0.0,en,1.0
-CBS Sports HQ AM Newsletter,CBS Sports HQ AM Newsletter,ORG,0.0,0.0,en,1.0
-Texas A&M,Texas A&M,ORG,0.0,0.0,en,1.0
-OKC,OKC,ORG,0.0,0.0,en,1.0
-NBA Cup,NBA Cup,ORG,0.0,0.0,en,1.0
-Nichushkin High-Stick,Nichushkin High-Stick,ORG,0.0,0.0,en,1.0
-Spurs,Spurs,ORG,0.0,0.0,en,1.0
-Quinn-tessential Matchup,Quinn-tessential Matchup,ORG,0.0,0.0,en,1.0
-Orioles,Orioles,ORG,0.13636363636363635,0.0,en,1.0
 Quinn Hughes,Quinn Hughes,ORG,0.175,0.0,en,1.0
-Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,1.0
-The Haida Nation,The Haida Nation,ORG,0.0,0.0,en,1.0
-ALTADENA,ALTADENA,ORG,0.0,0.0,en,1.0
+Quinn-tessential Matchup,Quinn-tessential Matchup,ORG,0.0,0.0,en,1.0
+ProtoThema,ProtoThema,ORG,0.125,0.0,en,1.0
+Winter Visitors,Winter Visitors,ORG,0.0,0.0,en,1.0
+Golden Knights,Golden Knights,ORG,0.3,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,-0.027500000000000004,0.0,en,1.0
+NASCAR,NASCAR,ORG,0.0,0.0,en,1.0
+Gargantuan Lake-Effect Snowstorm Setting Up For New Year’s Blast,Gargantuan Lake-Effect Snowstorm Setting Up For New Year’s Blast,ORG,0.043181818181818175,0.0,en,1.0
+TrumpNetanyahu,TrumpNetanyahu,ORG,0.0,0.0,en,1.0
+Academic Press,Academic Press,ORG,0.0,0.0,en,1.0
+Atmospheric Sciences,Atmospheric Sciences,ORG,0.0,0.0,en,1.0
+"Curry, J.","Curry, J.",ORG,0.0,0.0,en,1.0
+California Avalanche,California Avalanche,ORG,0.0,0.0,en,1.0
+the Telluride Professional Ski Patrol Association,the Telluride Professional Ski Patrol Association,ORG,0.1,0.0,en,1.0
+the Supreme Court of the Voting Rights Act's,the Supreme Court of the Voting Rights Act's,ORG,-0.027500000000000004,0.0,en,1.0
+the Golden Knights,the Golden Knights,ORG,0.3,0.0,en,1.0
+Associated Press,Associated Press,ORG,0.0,0.0,en,1.0
+Mammoth Mountain,Mammoth Mountain,ORG,0.0,0.0,en,1.0
+Snow Approach,Snow Approach,ORG,0.0,0.0,en,1.0
+National Weather Service Issues ',National Weather Service Issues ',ORG,0.0,0.0,en,1.0
+Early Access,Early Access,ORG,0.09999999999999999,0.0,en,1.0
+Summit Kingdom Confirms Version 1.0 Launch Date,Summit Kingdom Confirms Version 1.0 Launch Date,ORG,0.0,0.0,en,1.0
+the ski patrol union,the ski patrol union,ORG,-0.125,0.0,en,1.0
+The Telluride Ski Resort,The Telluride Ski Resort,ORG,-0.125,0.0,en,1.0
 The Nevada County Sheriff's Office,The Nevada County Sheriff's Office,ORG,0.0,0.0,en,1.0
+Ball Arena,Ball Arena,ORG,0.14285714285714285,0.0,en,1.0
+Pastrnak,Pastrnak,ORG,0.0,0.0,en,1.0
+Ecosystem Treasury,Ecosystem Treasury,ORG,0.0,0.0,en,1.0
+Mountain Lake Acquisition Corp.,Mountain Lake Acquisition Corp.,ORG,0.0,0.0,en,1.0
+O’Reilly,O’Reilly,ORG,0.05,0.0,en,1.0
+MUBI,MUBI,ORG,0.0,0.0,en,1.0
+Orange W…,Orange W…,ORG,0.2333333333333333,0.0,en,1.0
+ECCC,ECCC,ORG,0.2333333333333333,0.0,en,1.0
+Climate Change Canada,Climate Change Canada,ORG,0.2333333333333333,0.0,en,1.0
+unhoused,unhoused,ORG,0.0,0.0,en,1.0
+Southern Interior,Southern Interior,ORG,0.13333333333333333,0.0,en,1.0
+Swiss Avalanche,Swiss Avalanche,ORG,0.0,0.0,en,1.0
+Blackwood,Blackwood,ORG,0.0,0.0,en,1.0
+Olympic Snowboard Pioneer Dies,Olympic Snowboard Pioneer Dies,ORG,0.0,0.0,en,1.0
+ZURICH,ZURICH,ORG,0.0,0.0,en,1.0
+Leafs,Leafs,ORG,0.041666666666666664,0.0,en,1.0
+pawn| Column,pawn| Column,ORG,0.5,0.0,en,1.0
+Tampa Bay’s,Tampa Bay’s,ORG,0.5,0.0,en,1.0
+treasury,treasury,ORG,-0.2,0.0,en,1.0
+snowboardings Olympic,snowboardings Olympic,ORG,0.0,0.0,en,1.0
+the Lincoln County Sheriff's Office,the Lincoln County Sheriff's Office,ORG,0.0,0.0,en,1.0
+Business Combination,Business Combination,ORG,0.0,0.0,en,1.0
+Mount Elbrus,Mount Elbrus,ORG,0.0,0.0,en,1.0
+Cortina Milan,Cortina Milan,ORG,0.0,0.0,en,1.0
+Swiss Alps,Swiss Alps,ORG,0.0,0.0,en,1.0
+Avalanche Prediction,Avalanche Prediction,ORG,-0.4,0.0,en,1.0
+U.S. Olympic,U.S. Olympic,ORG,0.0,0.0,en,1.0
+Dostál,Dostál,ORG,0.0,0.0,en,1.0
+ResearchAndMarkets.com,ResearchAndMarkets.com,ORG,0.0,0.0,en,1.0
+Avalanche Radar Research Report,Avalanche Radar Research Report,ORG,0.0,0.0,en,1.0
+Science &amp,Science &amp,ORG,-0.25,0.0,en,1.0
+the Pittsburgh Penguins,the Pittsburgh Penguins,ORG,-0.125,0.0,en,1.0
+Draft Pick,Draft Pick,ORG,0.0,0.0,en,1.0
+Avalanche before Olympic,Avalanche before Olympic,ORG,0.0,0.0,en,1.0
+O'Reilly,O'Reilly,ORG,0.0,0.0,en,1.0
+Barré-Boulet Seizes Late Call-Up Opportunity in Avalanche Win,Barré-Boulet Seizes Late Call-Up Opportunity in Avalanche Win,ORG,0.25,0.0,en,1.0
+the Washington Capitals,the Washington Capitals,ORG,0.0,0.0,en,1.0
+NATO,NATO,ORG,0.25,0.0,en,1.0
+Bad Hofgastein,Bad Hofgastein,ORG,-0.23333333333333328,0.0,en,1.0
+Freeski Halfpipe World Cup,Freeski Halfpipe World Cup,ORG,-0.2,0.0,en,1.0
+Red Cross,Red Cross,ORG,0.0,0.0,en,1.0
+Avalanche Treasury Co.,Avalanche Treasury Co.,ORG,0.0,0.0,en,1.0
+Predators,Predators,ORG,0.04722222222222221,0.0,en,1.0
+Nylander Overtime,Nylander Overtime,ORG,0.5,0.0,en,1.0
+the Toronto Maple Leafs,the Toronto Maple Leafs,ORG,0.18333333333333335,0.0,en,1.0
+Toronto Maple Leafs,Toronto Maple Leafs,ORG,0.0,0.0,en,1.0
+University of Utah's,University of Utah's,ORG,-0.4,0.0,en,1.0
+CES,CES,ORG,0.24545454545454545,0.0,en,1.0
 the Central Council of Tlingit,the Central Council of Tlingit,ORG,0.0,0.0,en,1.0
 the Ottawa Senators,the Ottawa Senators,ORG,-0.125,0.0,en,1.0
 burs-cc/st/phz,burs-cc/st/phz,ORG,0.0,0.0,en,1.0
@@ -164,118 +250,88 @@ burs-cc/st/phz,burs-cc/st/phz,ORG,0.0,0.0,en,1.0
 the Llanberis Mountain Rescue Team,the Llanberis Mountain Rescue Team,ORG,0.19999999999999998,0.0,en,1.0
 NIL,NIL,ORG,0.2857142857142857,0.0,en,1.0
 Rice-Eccles Stadium,Rice-Eccles Stadium,ORG,-0.4,0.0,en,1.0
-University of Utah's,University of Utah's,ORG,-0.4,0.0,en,1.0
 Avalanche Near Tahoe Is Identified,Avalanche Near Tahoe Is Identified,ORG,0.012499999999999997,0.0,en,1.0
-Ball Arena,Ball Arena,ORG,0.14285714285714285,0.0,en,1.0
+AP Photo,AP Photo,ORG,0.0,0.0,en,1.0
+Texas A&M,Texas A&M,ORG,0.0,0.0,en,1.0
 The New Jersey Devils,The New Jersey Devils,ORG,0.13636363636363635,0.0,en,1.0
+BUFFALO,BUFFALO,ORG,0.8,0.0,en,1.0
 the Chicago Blackhawks',the Chicago Blackhawks',ORG,0.02,0.0,en,1.0
+"href=""https://thehockeynews.com","href=""https://thehockeynews.com",ORG,0.140625,0.0,en,1.0
 Free NHL,Free NHL,ORG,0.4,0.0,en,1.0
-NHL Game,NHL Game,ORG,-0.4,0.0,en,1.0
 Lightning Prediction,Lightning Prediction,ORG,-0.4,0.0,en,1.0
-Cortina Milan,Cortina Milan,ORG,0.0,0.0,en,1.0
-Pastrnak,Pastrnak,ORG,0.0,0.0,en,1.0
-CES,CES,ORG,0.24545454545454545,0.0,en,1.0
-India News,India News,ORG,0.2388888888888889,0.0,en,1.0
+KDVR,KDVR,ORG,0.2,0.0,en,1.0
+Bo Byram’s,Bo Byram’s,ORG,0.0,0.0,en,1.0
 Dental,Dental,ORG,0.0,0.0,en,1.0
-the Lincoln County Sheriff's Office,the Lincoln County Sheriff's Office,ORG,0.0,0.0,en,1.0
-Mount Elbrus,Mount Elbrus,ORG,0.0,0.0,en,1.0
-unhoused,unhoused,ORG,0.0,0.0,en,1.0
-Southern Interior,Southern Interior,ORG,0.13333333333333333,0.0,en,1.0
-Swiss Avalanche,Swiss Avalanche,ORG,0.0,0.0,en,1.0
-Olympic Snowboard Pioneer Dies,Olympic Snowboard Pioneer Dies,ORG,0.0,0.0,en,1.0
-ZURICH,ZURICH,ORG,0.0,0.0,en,1.0
-snowboardings Olympic,snowboardings Olympic,ORG,0.0,0.0,en,1.0
-the Foreign Office,the Foreign Office,ORG,-0.125,0.0,en,1.0
 Bengaluru,Bengaluru,ORG,-0.03333333333333333,0.0,en,1.0
+HistorySverker,HistorySverker,ORG,0.5,0.0,en,1.0
+OHS Canada Magazine,OHS Canada Magazine,ORG,-0.037500000000000006,0.0,en,1.0
+announcement</li><li>$675 million+ transaction,announcement</li><li>$675 million+ transaction,ORG,-0.2,0.0,en,1.0
+Colorado Avalanche News News,Colorado Avalanche News News,ORG,-0.125,0.0,en,1.0
+the United Nations General Assembly,the United Nations General Assembly,ORG,0.03571428571428571,0.0,en,1.0
+the Foreign Office,the Foreign Office,ORG,-0.125,0.0,en,1.0
 XRP DeFi,XRP DeFi,ORG,0.13636363636363635,0.0,en,1.0
 Bitcoin,Bitcoin,ORG,0.13636363636363635,0.0,en,1.0
 XRP DeFi Expansion,XRP DeFi Expansion,ORG,0.0,0.0,en,1.0
 Cardano Eyes Bitcoin,Cardano Eyes Bitcoin,ORG,0.0,0.0,en,1.0
+The Kittitas County Sheriffs Office,The Kittitas County Sheriffs Office,ORG,0.0,0.0,en,1.0
+Okanogan-Wenatchee National Forest,Okanogan-Wenatchee National Forest,ORG,-0.05,0.0,en,1.0
 ACLU,ACLU,ORG,0.0,0.0,en,1.0
+the Kittitas County Sheriffs Office,the Kittitas County Sheriffs Office,ORG,-0.1,0.0,en,1.0
+the Kittitas County Sheriff’s Office,the Kittitas County Sheriff’s Office,ORG,-0.1,0.0,en,1.0
 1st LD-Writethru,1st LD-Writethru,ORG,-0.2,0.0,en,1.0
 missingBBC Death,missingBBC Death,ORG,0.05416666666666667,0.0,en,1.0
-California Avalanche,California Avalanche,ORG,0.0,0.0,en,1.0
-The Met Office,The Met Office,ORG,0.0,0.0,en,1.0
-Ge,Ge,ORG,0.0,0.0,en,1.0
-sti,sti,ORG,-0.125,0.0,en,1.0
-NASCAR,NASCAR,ORG,0.0,0.0,en,1.0
-TrumpNetanyahu,TrumpNetanyahu,ORG,0.0,0.0,en,1.0
-Academic Press,Academic Press,ORG,0.0,0.0,en,1.0
-Atmospheric Sciences,Atmospheric Sciences,ORG,0.0,0.0,en,1.0
-"Curry, J.","Curry, J.",ORG,0.0,0.0,en,1.0
-&amp,&amp,ORG,0.0,0.0,en,1.0
-the Telluride Professional Ski Patrol Association,the Telluride Professional Ski Patrol Association,ORG,0.1,0.0,en,1.0
-Mammoth Mountain,Mammoth Mountain,ORG,0.0,0.0,en,1.0
-Early Access,Early Access,ORG,0.09999999999999999,0.0,en,1.0
-Summit Kingdom Confirms Version 1.0 Launch Date,Summit Kingdom Confirms Version 1.0 Launch Date,ORG,0.0,0.0,en,1.0
-the ski patrol union,the ski patrol union,ORG,-0.125,0.0,en,1.0
-The Telluride Ski Resort,The Telluride Ski Resort,ORG,-0.125,0.0,en,1.0
-the Golden Knights,the Golden Knights,ORG,0.3,0.0,en,1.0
-Golden Knights,Golden Knights,ORG,0.3,0.0,en,1.0
-Winter Visitors,Winter Visitors,ORG,0.0,0.0,en,1.0
-ProtoThema,ProtoThema,ORG,0.125,0.0,en,1.0
-Vardousia,Vardousia,ORG,0.0,0.0,en,1.0
-RRAM,RRAM,ORG,0.0,0.0,en,1.0
-Terror Train',Terror Train',ORG,0.3621212121212121,0.0,en,1.0
-"Down, Fermanagh","Down, Fermanagh",ORG,-0.07777777777777779,0.0,en,1.0
-Apple TV+,Apple TV+,ORG,0.0,0.0,en,1.0
-Rock Hudson,Rock Hudson,ORG,0.0,0.0,en,1.0
-Barra Best,Barra Best,ORG,0.3181818181818182,0.0,en,1.0
-GAA,GAA,ORG,-0.1,0.0,en,1.0
-outKTOO Heavy,outKTOO Heavy,ORG,-0.0016666666666666718,0.0,en,1.0
-Carlo,Carlo,ORG,0.0,0.0,en,1.0
-"Amsterdam
-","Amsterdam
-",ORG,0.0,0.0,en,1.0
-United States Olympic,United States Olympic,ORG,-0.1,0.0,en,1.0
-The Best TV & Movies,The Best TV & Movies,ORG,1.0,0.0,en,1.0
-Tyrone,Tyrone,ORG,-0.07777777777777779,0.0,en,1.0
-Aussie Streaming Guide,Aussie Streaming Guide,ORG,1.0,0.0,en,1.0
-MacKinnon,MacKinnon,ORG,0.0,0.0,en,1.0
-the Roberts Court,the Roberts Court,ORG,-0.25,0.0,en,1.0
-Judicial Sanewashing Wrecked the Legal System,Judicial Sanewashing Wrecked the Legal System,ORG,0.2,0.0,en,1.0
-the Supreme Court’s,the Supreme Court’s,ORG,0.2,0.0,en,1.0
-Blacky,Blacky,ORG,0.0,0.0,en,1.0
-the UK,the UK,ORG,0.0,0.0,en,1.0
-Nature573,Nature573,ORG,0.0,0.0,en,1.0
-National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1.0
-Atmospheric River Brings Avalanche Death Risk,Atmospheric River Brings Avalanche Death Risk,ORG,0.0,0.0,en,1.0
-Tech,Tech,ORG,-0.0035714285714285865,0.0,en,1.0
-TikTok,TikTok,ORG,0.18167388167388168,0.0,en,1.0
-ar,ar,ORG,0.25,0.0,en,1.0
-the Grateful Dead’s,the Grateful Dead’s,ORG,0.10909090909090909,0.0,en,1.0
-Latest Grateful Dead Opus ‘Mountains of the Moon,Latest Grateful Dead Opus ‘Mountains of the Moon,ORG,0.09999999999999999,0.0,en,1.0
-Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,ORG,0.0,0.0,en,1.0
-Asia Crypto Regulations to Watch,Asia Crypto Regulations to Watch,ORG,0.0,0.0,en,1.0
-Digital Currency Strategies Diverge,Digital Currency Strategies Diverge,ORG,0.0,0.0,en,1.0
-"Aspen Times
-","Aspen Times
-",ORG,0.14285714285714285,0.0,en,1.0
-River Stingray,River Stingray,ORG,0.14285714285714285,0.0,en,1.0
-Aspen Snowmass,Aspen Snowmass,ORG,0.14285714285714285,0.33035714285714285,en,1.0
-Berkshire Hathaway Travel,Berkshire Hathaway Travel,ORG,0.13636363636363635,0.0,en,1.0
-Berkshire Hathaway Travel Protection,Berkshire Hathaway Travel Protection,ORG,0.2848484848484848,0.0,en,1.0
-Cybersecurity,Cybersecurity,ORG,0.0,0.0,en,1.0
+ED before Calcutta HC,ED before Calcutta HC,ORG,0.2857142857142857,0.0,en,1.0
+Athlone Town AFC,Athlone Town AFC,ORG,0.25,0.0,en,1.0
+Avalanche Investors Search for,Avalanche Investors Search for,ORG,0.04545454545454545,0.0,en,1.0
+SEC,SEC,ORG,-0.03333333333333333,0.0,en,1.0
+Nanocosmos Explores Natural Design through Scanning Electron Microscopy,Nanocosmos Explores Natural Design through Scanning Electron Microscopy,ORG,0.1,0.0,en,1.0
+Chevrolet Avalanche,Chevrolet Avalanche,ORG,0.0,0.0,en,1.0
+Blackhawks,Blackhawks,ORG,-0.30000000000000004,0.0,en,1.0
+Reservation,Reservation,ORG,-0.2,0.0,en,1.0
 "Instagram
 ","Instagram
 ",ORG,-0.07777777777777779,0.0,en,1.0
-PBOC,PBOC,ORG,0.0,0.0,en,1.0
-The People's Bank of China,The People's Bank of China,ORG,0.0,0.0,en,1.0
+Yle,Yle,ORG,-0.06666666666666667,0.0,en,1.0
+Scientific American,Scientific American,ORG,0.0,0.0,en,1.0
+Yakult,Yakult,ORG,0.0,0.0,en,1.0
+Nanocosmos,Nanocosmos,ORG,0.15656565656565657,0.0,en,1.0
+Kumpula,Kumpula,ORG,0.0,0.0,en,1.0
+Jets,Jets,ORG,0.2,0.0,en,1.0
+FMI,FMI,ORG,0.0,0.0,en,1.0
+Cybersecurity,Cybersecurity,ORG,0.0,0.0,en,1.0
+Calder Trophy,Calder Trophy,ORG,0.13636363636363635,0.0,en,1.0
+Norris,Norris,ORG,0.6166666666666667,0.0,en,1.0
+NHL Award Races,NHL Award Races,ORG,0.0,0.0,en,1.0
+Near-Locks,Near-Locks,ORG,0.0,0.0,en,1.0
+Southern Cairngorms,Southern Cairngorms,ORG,0.0,0.0,en,1.0
+Lochaber,Lochaber,ORG,0.0,0.0,en,1.0
+No Reserve,No Reserve,ORG,0.0,0.0,en,1.0
+Chevrolet Avalanche 2500,Chevrolet Avalanche 2500,ORG,-0.1,0.0,en,1.0
+Dupuy,Dupuy,ORG,0.0,0.0,en,1.0
+Ann,Ann,ORG,0.0,0.0,en,1.0
+Avalanche Crosshairs,Avalanche Crosshairs,ORG,0.0,0.0,en,1.0
+Insider Links Sherwood,Insider Links Sherwood,ORG,0.0,0.0,en,1.0
+National Public Radio,National Public Radio,ORG,0.225,0.0,en,1.0
+Hersher,Hersher,ORG,0.225,0.0,en,1.0
+3i/Atlas Vessel Footage Intensifies Alien Theories,3i/Atlas Vessel Footage Intensifies Alien Theories,ORG,-0.25,0.0,en,1.0
+the Colorado Passenger Tramway Safety Board,the Colorado Passenger Tramway Safety Board,ORG,0.0,0.0,en,1.0
 3I/ATLAS,3I/ATLAS,ORG,0.025,0.0,en,1.0
-Snowtunnel co-founder,Snowtunnel co-founder,ORG,0.08749999999999998,0.0,en,1.0
-Himalayan avalancheBBC,Himalayan avalancheBBC,ORG,-0.13055555555555554,0.0,en,1.0
-Cold Blast Aims,Cold Blast Aims,ORG,-0.6,0.0,en,1.0
-guidesCBS News Three,guidesCBS News Three,ORG,-0.13055555555555554,0.0,en,1.0
-Snow Set,Snow Set,ORG,-0.6,0.0,en,1.0
-Basgiath War College,Basgiath War College,ORG,0.0,0.0,en,1.0
-Prepping Progress,Prepping Progress,ORG,0.0,0.0,en,1.0
-Facebook,Facebook,ORG,0.0,0.0,en,1.0
-The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.041666666666666664,0.0,en,1.0
-Credit,Credit,ORG,0.0,0.0,en,1.0
-the Colorado Avalanche Information Center,the Colorado Avalanche Information Center,ORG,0.23333333333333336,0.0,en,1.0
+Wild in First Meeting of,Wild in First Meeting of,ORG,0.175,0.0,en,1.0
+The People's Bank of China,The People's Bank of China,ORG,0.0,0.0,en,1.0
+Sporting Life Canada Black,Sporting Life Canada Black,ORG,-0.16666666666666666,0.0,en,1.0
+Brace,Brace,ORG,0.0,0.0,en,1.0
+New York Post,New York Post,ORG,0.13636363636363635,0.0,en,1.0
+Amazon,Amazon,ORG,-0.16666666666666666,0.0,en,1.0
+YETI Black,YETI Black,ORG,-0.16666666666666666,0.0,en,1.0
+Getty,Getty,ORG,0.0,0.0,en,1.0
+NHLI,NHLI,ORG,0.0,0.0,en,1.0
+PBOC,PBOC,ORG,0.0,0.0,en,1.0
+the Scottish Avalanche Information Service,the Scottish Avalanche Information Service,ORG,0.0,0.0,en,1.0
+ICE,ICE,ORG,0.0,0.0,en,1.0
+Glacier National Park,Glacier National Park,ORG,0.0,0.0,en,1.0
 Colorado Avalanche Information Center,Colorado Avalanche Information Center,ORG,0.15000000000000002,0.0,en,1.0
-ARCADE X RECCO STRETCH BELT,ARCADE X RECCO STRETCH BELT,ORG,0.0,0.0,en,1.0
 Nepali Congress,Nepali Congress,ORG,0.2041666666666667,0.0,en,1.0
+Digital Currency Strategies Diverge,Digital Currency Strategies Diverge,ORG,0.0,0.0,en,1.0
 The Kathmandu Post,The Kathmandu Post,ORG,0.0,0.0,en,1.0
 Peoples' Review,Peoples' Review,ORG,-0.275,0.0,en,1.0
 Brit +…,Brit +…,ORG,0.0,0.0,en,1.0
@@ -283,60 +339,97 @@ Brit +…,Brit +…,ORG,0.0,0.0,en,1.0
 Leggo","Brit + Co
 Leggo",ORG,0.0,0.0,en,1.0
 TapiocaTuesday,TapiocaTuesday,ORG,0.06458333333333333,0.0,en,1.0
+Asia Crypto Regulations to Watch,Asia Crypto Regulations to Watch,ORG,0.0,0.0,en,1.0
 Google News,Google News,ORG,0.11249999999999999,0.0,en,1.0
 CNN,CNN,ORG,-0.125,0.0,en,1.0
-3i/Atlas Vessel Footage Intensifies Alien Theories,3i/Atlas Vessel Footage Intensifies Alien Theories,ORG,-0.25,0.0,en,1.0
-The Xbox Insider Program,The Xbox Insider Program,ORG,-0.025,0.0,en,1.0
-Celje,Celje,ORG,-0.6999999999999998,0.0,en,1.0
-John &amp,John &amp,ORG,0.34659090909090906,0.0,en,1.0
-the Supreme Court of the Voting Rights Act's,the Supreme Court of the Voting Rights Act's,ORG,-0.027500000000000004,0.0,en,1.0
-The Supreme Court,The Supreme Court,ORG,-0.027500000000000004,0.0,en,1.0
-Congress,Congress,ORG,-0.13333333333333333,0.0,en,1.0
-Supreme Court,Supreme Court,ORG,-0.13333333333333333,0.0,en,1.0
-the U.S. Bureau of Labor Statistics,the U.S. Bureau of Labor Statistics,ORG,0.0,0.0,en,1.0
-"href=""https://thehockeynews.com","href=""https://thehockeynews.com",ORG,0.140625,0.0,en,1.0
-BUFFALO,BUFFALO,ORG,0.8,0.0,en,1.0
-Bo Byram’s,Bo Byram’s,ORG,0.0,0.0,en,1.0
-HistorySverker,HistorySverker,ORG,0.5,0.0,en,1.0
-the United Nations General Assembly,the United Nations General Assembly,ORG,0.03571428571428571,0.0,en,1.0
-announcement</li><li>$675 million+ transaction,announcement</li><li>$675 million+ transaction,ORG,-0.2,0.0,en,1.0
-treasury,treasury,ORG,-0.2,0.0,en,1.0
-Ecosystem Treasury,Ecosystem Treasury,ORG,0.0,0.0,en,1.0
-Mountain Lake Acquisition Corp.,Mountain Lake Acquisition Corp.,ORG,0.0,0.0,en,1.0
-Business Combination,Business Combination,ORG,0.0,0.0,en,1.0
-Avalanche Treasury Co.,Avalanche Treasury Co.,ORG,0.0,0.0,en,1.0
-Freeski Halfpipe World Cup,Freeski Halfpipe World Cup,ORG,-0.2,0.0,en,1.0
-Associated Press,Associated Press,ORG,0.0,0.0,en,1.0
-Rabo de Peixe,Rabo de Peixe,ORG,0.125,0.0,en,1.0
-12.40pm &amp,12.40pm &amp,ORG,0.375,0.0,en,1.0
-New Avalanche,New Avalanche,ORG,0.2732323232323232,0.0,en,1.0
-HBO Original,HBO Original,ORG,0.34659090909090906,0.0,en,1.0
-John & Yoko,John & Yoko,ORG,0.3371212121212121,0.0,en,1.0
-Seni,Seni,ORG,0.024999999999999994,0.0,en,1.0
-Walker,Walker,ORG,0.024999999999999994,0.0,en,1.0
-Shiga Kogen Mountain Resort,Shiga Kogen Mountain Resort,ORG,0.35714285714285715,0.0,en,1.0
+guidesCBS News Three,guidesCBS News Three,ORG,-0.13055555555555554,0.0,en,1.0
+Himalayan avalancheBBC,Himalayan avalancheBBC,ORG,-0.13055555555555554,0.0,en,1.0
+Tech,Tech,ORG,-0.0035714285714285865,0.0,en,1.0
+Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,ORG,0.0,0.0,en,1.0
+Latest Grateful Dead Opus ‘Mountains of the Moon,Latest Grateful Dead Opus ‘Mountains of the Moon,ORG,0.09999999999999999,0.0,en,1.0
+the Grateful Dead’s,the Grateful Dead’s,ORG,0.10909090909090909,0.0,en,1.0
+Snowtunnel co-founder,Snowtunnel co-founder,ORG,0.08749999999999998,0.0,en,1.0
+ARCADE X RECCO STRETCH BELT,ARCADE X RECCO STRETCH BELT,ORG,0.0,0.0,en,1.0
+the Colorado Avalanche Information Center,the Colorado Avalanche Information Center,ORG,0.23333333333333336,0.0,en,1.0
+Berkshire Hathaway Travel Protection,Berkshire Hathaway Travel Protection,ORG,0.2848484848484848,0.0,en,1.0
+Credit,Credit,ORG,0.0,0.0,en,1.0
+Eagles,Eagles,ORG,0.275,0.0,en,1.0
+Giants,Giants,ORG,0.275,0.0,en,1.0
+Edmonton Oilers,Edmonton Oilers,ORG,-0.3333333333333333,0.0,en,1.0
+Berkshire Hathaway Travel,Berkshire Hathaway Travel,ORG,0.13636363636363635,0.0,en,1.0
+Canucks Tie Game,Canucks Tie Game,ORG,-0.35,0.0,en,1.0
+Los Angeles Dodgers,Los Angeles Dodgers,ORG,-0.13571428571428573,0.0,en,1.0
+ATP Finals,ATP Finals,ORG,0.5,0.0,en,1.0
+Aspen Snowmass,Aspen Snowmass,ORG,0.14285714285714285,0.33035714285714285,en,1.0
+Cold Blast Aims,Cold Blast Aims,ORG,-0.6,0.0,en,1.0
+Wallop Chicago,Wallop Chicago,ORG,-0.6,0.0,en,1.0
+Snow Set,Snow Set,ORG,-0.6,0.0,en,1.0
+Basgiath War College,Basgiath War College,ORG,0.0,0.0,en,1.0
+River Stingray,River Stingray,ORG,0.14285714285714285,0.0,en,1.0
+Prepping Progress,Prepping Progress,ORG,0.0,0.0,en,1.0
+Facebook,Facebook,ORG,0.0,0.0,en,1.0
+"Aspen Times
+","Aspen Times
+",ORG,0.14285714285714285,0.0,en,1.0
+The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.041666666666666664,0.0,en,1.0
+Vancouver Canucks,Vancouver Canucks,ORG,0.05,0.0,en,1.0
+Montréal Canadiens @ Colorado Avalanche,Montréal Canadiens @ Colorado Avalanche,ORG,0.0,0.0,en,1.0
+Fe,Fe,ORG,0.0,0.0,en,1.0
++2295,+2295,ORG,0.25,0.0,en,1.0
 Ikon Pass,Ikon Pass,ORG,0.35714285714285715,0.0,en,1.0
+Shiga Kogen Mountain Resort,Shiga Kogen Mountain Resort,ORG,0.35714285714285715,0.0,en,1.0
+the Anaheim Ducks,the Anaheim Ducks,ORG,0.012121212121212116,0.0,en,1.0
+CBS Sports HQ AM Newsletter,CBS Sports HQ AM Newsletter,ORG,0.0,0.0,en,1.0
+OKC,OKC,ORG,0.0,0.0,en,1.0
+NBA Cup,NBA Cup,ORG,0.0,0.0,en,1.0
+Thunder,Thunder,ORG,0.0,0.0,en,1.0
+Spurs,Spurs,ORG,0.0,0.0,en,1.0
+Orioles,Orioles,ORG,0.13636363636363635,0.0,en,1.0
+Walker,Walker,ORG,0.024999999999999994,0.0,en,1.0
+"Getty Images / Imago
+","Getty Images / Imago
+",ORG,0.1,0.0,en,1.0
+Seni,Seni,ORG,0.024999999999999994,0.0,en,1.0
+The River Forecast Centre,The River Forecast Centre,ORG,0.0,0.0,en,1.0
+John & Yoko,John & Yoko,ORG,0.3371212121212121,0.0,en,1.0
+P. &amp,P. &amp,ORG,0.25,0.0,en,1.0
+Nature573,Nature573,ORG,0.0,0.0,en,1.0
+RRAM,RRAM,ORG,0.0,0.0,en,1.0
 Argentin,Argentin,ORG,0.0,0.0,en,1.0
+New Avalanche,New Avalanche,ORG,0.2732323232323232,0.0,en,1.0
+The Colorado Avalanche Informa,The Colorado Avalanche Informa,ORG,0.0,0.0,en,1.0
+the Proof of Stake,the Proof of Stake,ORG,0.0,0.0,en,1.0
+Hyperliquid,Hyperliquid,ORG,0.0625,0.0,en,1.0
+DIY SOS,DIY SOS,ORG,0.0,0.0,en,1.0
+CFN,CFN,ORG,0.0,0.0,en,1.0
+Crypto News (Live,Crypto News (Live,ORG,0.04545454545454545,0.0,en,1.0
+Mountain Mudslide Engulfs Road Workers,Mountain Mudslide Engulfs Road Workers,ORG,0.0,0.0,en,1.0
+undefi,undefi,ORG,0.0,0.0,en,1.0
+The United Nations,The United Nations,ORG,0.0,0.0,en,1.0
+the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,1.0
+Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,1.0
+ar,ar,ORG,0.25,0.0,en,1.0
+Nichushkin High-Stick,Nichushkin High-Stick,ORG,0.0,0.0,en,1.0
+TRX,TRX,ORG,0.0,0.0,en,1.0
+Nashville Predators @,Nashville Predators @,ORG,0.0,0.0,en,1.0
+the Edmonton Oilers 2029,the Edmonton Oilers 2029,ORG,0.0,0.0,en,1.0
 "El Pais
 Climate/Environment","El Pais
 Climate/Environment",ORG,0.0,0.0,en,1.0
-Lions,Lions,ORG,0.375,0.0,en,1.0
-TRX,TRX,ORG,0.0,0.0,en,1.0
-Avalanche Investors Search for,Avalanche Investors Search for,ORG,0.04545454545454545,0.0,en,1.0
-Crypto News (Live,Crypto News (Live,ORG,0.04545454545454545,0.0,en,1.0
-DIY SOS,DIY SOS,ORG,0.0,0.0,en,1.0
-Athlone Town AFC,Athlone Town AFC,ORG,0.25,0.0,en,1.0
-Croke Pa…,Croke Pa…,ORG,0.0,0.0,en,1.0
-Scarlets,Scarlets,ORG,0.375,0.0,en,1.0
-Wallop Chicago,Wallop Chicago,ORG,-0.6,0.0,en,1.0
-ATP Finals,ATP Finals,ORG,0.5,0.0,en,1.0
-The Colorado Avalanche Informa,The Colorado Avalanche Informa,ORG,0.0,0.0,en,1.0
-Canucks Fall,Canucks Fall,ORG,-0.08333333333333333,0.0,en,1.0
+12:04:04,12:04:04,ORG,0.0,0.0,en,1.0
+PoS,PoS,ORG,0.0,0.0,en,1.0
+Atmospheric River Brings Avalanche Death Risk,Atmospheric River Brings Avalanche Death Risk,ORG,0.0,0.0,en,1.0
+Islanders Overpower Avalanche Despite Major Injury Losses,Islanders Overpower Avalanche Despite Major Injury Losses,ORG,0.0625,0.0,en,1.0
+Environ,Environ,ORG,0.31212121212121213,0.0,en,1.0
+Culling Games Arc,Culling Games Arc,ORG,0.125,0.0,en,1.0
+Celje,Celje,ORG,-0.6999999999999998,0.0,en,1.0
+Canucks,Canucks,ORG,0.8,0.0,en,1.0
 California Community College,California Community College,ORG,-0.15,0.0,en,1.0
 California State University,California State University,ORG,-0.15,0.0,en,1.0
 the University of California,the University of California,ORG,-0.15,0.0,en,1.0
 California University Systems Challenged By Equal Protection Project,California University Systems Challenged By Equal Protection Project,ORG,0.0,0.0,en,1.0
-FIS Snowboard &amp,FIS Snowboard &amp,ORG,-0.2,0.0,en,1.0
+National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1.0
+The Xbox Insider Program,The Xbox Insider Program,ORG,-0.025,0.0,en,1.0
 Nichushkin,Nichushkin,ORG,0.0,0.0,en,1.0
 Crypto Briefing,Crypto Briefing,ORG,0.19318181818181818,0.0,en,1.0
 KINGSTOWN,KINGSTOWN,ORG,0.2848484848484848,0.0,en,1.0
@@ -346,17 +439,15 @@ Polar Puppers,Polar Puppers,ORG,0.4055555555555556,0.0,en,1.0
 Warfighters Ready,Warfighters Ready,ORG,-0.17499999999999996,0.0,en,1.0
 Nutrition Research Keeps,Nutrition Research Keeps,ORG,-0.17499999999999996,0.0,en,1.0
 Bloomberg,Bloomberg,ORG,-0.05454545454545454,0.0,en,1.0
-Environ,Environ,ORG,0.31212121212121213,0.0,en,1.0
-Fe,Fe,ORG,0.0,0.0,en,1.0
-Montréal Canadiens @ Colorado Avalanche,Montréal Canadiens @ Colorado Avalanche,ORG,0.0,0.0,en,1.0
-Canucks,Canucks,ORG,0.8,0.0,en,1.0
-Culling Games Arc,Culling Games Arc,ORG,0.125,0.0,en,1.0
-Los Angeles Dodgers,Los Angeles Dodgers,ORG,-0.13571428571428573,0.0,en,1.0
+Canucks Fall,Canucks Fall,ORG,-0.08333333333333333,0.0,en,1.0
 the Public Lands Serve,the Public Lands Serve,ORG,0.0,0.0,en,1.0
-Islanders Overpower Avalanche Despite Major Injury Losses,Islanders Overpower Avalanche Despite Major Injury Losses,ORG,0.0625,0.0,en,1.0
 Liquid Swords,Liquid Swords,ORG,0.04999999999999999,0.0,en,1.0
+the Los Angeles Rams,the Los Angeles Rams,ORG,0.25,0.0,en,1.0
+HBO Original,HBO Original,ORG,0.34659090909090906,0.0,en,1.0
+John &amp,John &amp,ORG,0.34659090909090906,0.0,en,1.0
 SEC Chair Atkins Discusses Revitalizing America’s,SEC Chair Atkins Discusses Revitalizing America’s,ORG,-0.1,0.0,en,1.0
 UBS Arena,UBS Arena,ORG,0.13636363636363635,0.0,en,1.0
+FIS Snowboard &amp,FIS Snowboard &amp,ORG,-0.2,0.0,en,1.0
 the Boston Bruins,the Boston Bruins,ORG,0.0,0.0,en,1.0
 The Colorado Avalanche Are On A Historic Pace,The Colorado Avalanche Are On A Historic Pace,ORG,0.0,0.0,en,1.0
 "MtnClimber
@@ -371,46 +462,4 @@ GeForce NOW’s,GeForce NOW’s,ORG,0.07323232323232323,0.0,en,1.0
 the Premier League,the Premier League,ORG,0.25,0.0,en,1.0
 Arsenal,Arsenal,ORG,0.25,0.0,en,1.0
 Denver Nuggets,Denver Nuggets,ORG,0.25,0.0,en,1.0
-the Los Angeles Rams,the Los Angeles Rams,ORG,0.25,0.0,en,1.0
-Vancouver Canucks,Vancouver Canucks,ORG,0.05,0.0,en,1.0
-Avalanche Crosshairs,Avalanche Crosshairs,ORG,0.0,0.0,en,1.0
-Insider Links Sherwood,Insider Links Sherwood,ORG,0.0,0.0,en,1.0
-National Public Radio,National Public Radio,ORG,0.225,0.0,en,1.0
-Nanocosmos,Nanocosmos,ORG,0.15656565656565657,0.0,en,1.0
-Nanocosmos Explores Natural Design through Scanning Electron Microscopy,Nanocosmos Explores Natural Design through Scanning Electron Microscopy,ORG,0.1,0.0,en,1.0
-Kumpula,Kumpula,ORG,0.0,0.0,en,1.0
-FMI,FMI,ORG,0.0,0.0,en,1.0
-Calder Trophy,Calder Trophy,ORG,0.13636363636363635,0.0,en,1.0
-Norris,Norris,ORG,0.6166666666666667,0.0,en,1.0
-NHL Award Races,NHL Award Races,ORG,0.0,0.0,en,1.0
-Near-Locks,Near-Locks,ORG,0.0,0.0,en,1.0
-Southern Cairngorms,Southern Cairngorms,ORG,0.0,0.0,en,1.0
-Lochaber,Lochaber,ORG,0.0,0.0,en,1.0
-the Scottish Avalanche Information Service,the Scottish Avalanche Information Service,ORG,0.0,0.0,en,1.0
-ICE,ICE,ORG,0.0,0.0,en,1.0
-Glacier National Park,Glacier National Park,ORG,0.0,0.0,en,1.0
-Eagles,Eagles,ORG,0.275,0.0,en,1.0
-Giants,Giants,ORG,0.275,0.0,en,1.0
-Edmonton Oilers,Edmonton Oilers,ORG,-0.3333333333333333,0.0,en,1.0
-Canucks Tie Game,Canucks Tie Game,ORG,-0.35,0.0,en,1.0
-Yakult,Yakult,ORG,0.0,0.0,en,1.0
-Scientific American,Scientific American,ORG,0.0,0.0,en,1.0
-Yle,Yle,ORG,-0.06666666666666667,0.0,en,1.0
-YETI Black,YETI Black,ORG,-0.16666666666666666,0.0,en,1.0
-Hersher,Hersher,ORG,0.225,0.0,en,1.0
-the Colorado Passenger Tramway Safety Board,the Colorado Passenger Tramway Safety Board,ORG,0.0,0.0,en,1.0
-Wild in First Meeting of,Wild in First Meeting of,ORG,0.175,0.0,en,1.0
-Sporting Life Canada Black,Sporting Life Canada Black,ORG,-0.16666666666666666,0.0,en,1.0
-Brace,Brace,ORG,0.0,0.0,en,1.0
-New York Post,New York Post,ORG,0.13636363636363635,0.0,en,1.0
-Amazon,Amazon,ORG,-0.16666666666666666,0.0,en,1.0
-Getty,Getty,ORG,0.0,0.0,en,1.0
-Reservation,Reservation,ORG,-0.2,0.0,en,1.0
-NHLI,NHLI,ORG,0.0,0.0,en,1.0
-Ann,Ann,ORG,0.0,0.0,en,1.0
-Dupuy,Dupuy,ORG,0.0,0.0,en,1.0
-Chevrolet Avalanche 2500,Chevrolet Avalanche 2500,ORG,-0.1,0.0,en,1.0
-No Reserve,No Reserve,ORG,0.0,0.0,en,1.0
-Chevrolet Avalanche,Chevrolet Avalanche,ORG,0.0,0.0,en,1.0
-Blackhawks,Blackhawks,ORG,-0.30000000000000004,0.0,en,1.0
-Red Cross,Red Cross,ORG,0.0,0.0,en,1.0
+Skier Survives Avalanche,Skier Survives Avalanche,ORG,0.0,0.0,en,1.0
