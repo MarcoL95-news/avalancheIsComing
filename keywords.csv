@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.0875025583222341
 'avalanche mountain',en,Hazard,#ff0000,#ff0000,3,0.0835130550028207
 'avalanche ski',en,Hazard,#ff0000,#ff0000,3,0.0830725508025584
-'avalanche snow',en,Causes,#00ffff,#00ffff,3,0.08145966930082606
+'avalanche snow',en,Causes,#00ffff,#00ffff,3,0.081459669300826
 'avalanche death',en,Impacts,#ffff00,#ffff00,3,0.065186984472609
 'avalanche climate change',en,Causes,#00ffff,#00ffff,2,0.0534659178071606
-'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.0348055280101328
 'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.0343817031511704
+'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.03108486380861288
