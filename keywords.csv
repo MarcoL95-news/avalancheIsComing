@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche rescue',en,Mitigation,#00ff00,#00ff00,1,0.0632876566090331
 'avalanche death',en,Impacts,#ffff00,#ffff00,2,0.0515310000517604
 'avalanche climate change',en,Causes,#00ffff,#00ffff,1,0.0461697809676405
-'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.0336709652650275
+'avalanche protection',en,Adaptation,#0000ff,#0000ff,1,0.02862072547527337
 'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.026587420898043
