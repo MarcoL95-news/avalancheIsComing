@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche mountain',en,Hazard,#ff0000,#ff0000,2,0.0350701348095523
 'avalanche snow',en,Causes,#00ffff,#00ffff,2,0.0343383005518279
 'avalanche death',en,Impacts,#ffff00,#ffff00,2,0.0330455914813635
+'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.03254305286261442
 'avalanche climate change',en,Causes,#00ffff,#00ffff,1,0.0298856300580964
 'avalanche protection',en,Adaptation,#0000ff,#0000ff,1,0.0268142538336153
-'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.0201094210148405
