@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche search',en,Mitigation,#00ff00,#00ff00,3,0.0490734570953186
-'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.0449912193174178
+'avalanche missing',en,Impacts,#ffff00,#ffff00,3,0.045466253692532405
 'avalanche ski',en,Hazard,#ff0000,#ff0000,1,0.0371227786582529
 'avalanche rescue',en,Mitigation,#00ff00,#00ff00,1,0.0354453678041643
 'avalanche mountain',en,Hazard,#ff0000,#ff0000,2,0.0350701348095523
 'avalanche death',en,Impacts,#ffff00,#ffff00,2,0.0315067202782145
 'avalanche climate change',en,Causes,#00ffff,#00ffff,1,0.031144024640291
-'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.030088799642797617
+'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.0300887996427976
 'avalanche snow',en,Causes,#00ffff,#00ffff,1,0.0291880054690537
 'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.0281116399332222
