@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche missing',en,Impacts,#ffff00,#ffff00,2,0.0367736113274908
 'avalanche rescue',en,Mitigation,#00ff00,#00ff00,1,0.0328955188832455
 'avalanche snow',en,Causes,#00ffff,#00ffff,2,0.0306173675058385
+'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.02979498394323887
 'avalanche protection',en,Adaptation,#0000ff,#0000ff,2,0.0297758996963779
-'avalanche climate change',en,Causes,#00ffff,#00ffff,1,0.029249585052610202
-'avalanche warning system',en,Adaptation,#0000ff,#0000ff,1,0.0281116399332222
+'avalanche climate change',en,Causes,#00ffff,#00ffff,1,0.0292495850526102
