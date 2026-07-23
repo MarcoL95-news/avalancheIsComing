@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanche search',en,Mitigation,#00ff00,#00ff00,2,0.046272743033164
-'avalanche mountain',en,Hazard,#ff0000,#ff0000,2,0.03718623377913745
 'avalanche missing',en,Impacts,#ffff00,#ffff00,2,0.0336583196283671
+'avalanche mountain',en,Hazard,#ff0000,#ff0000,2,0.033558988712266785
 'avalanche ski',en,Hazard,#ff0000,#ff0000,1,0.0332045268595149
 'avalanche death',en,Impacts,#ffff00,#ffff00,2,0.0319431669801808
 'avalanche snow',en,Causes,#00ffff,#00ffff,2,0.0306173675058385
